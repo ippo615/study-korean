@@ -1,0 +1,192 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>A Introduction to Git Workshop</title>
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h1>How to Use Git</h1>
+					<h3>For version control and team coordination</h3>
+					<p></p>
+					<p>Hack Princetion, Fall 2019</p>
+					<p>By: Andrew Ippoliti</p>
+				</section>
+				<section>
+					<section>
+						<h2>What is Git?</h2>
+					</section>
+					<section>
+						<h3>According to Wikipedia</h3>
+						<p>Git is a distributed <span class="fragment highlight-red">version-control system</span> for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, <span class="fragment highlight-red">data integrity</span>, and support for <span class="fragment highlight-red">distributed</span>, <span class="fragment highlight-red">non-linear workflows</span>.</p>
+					</section>				
+					<section>
+						<h3>Git is Distributed</h3>
+						<img src="images/git-decentralized.svg"/>
+					</section>
+					<section>
+						<h3>...but can centralized</h3>
+						<img src="images/git-centralized.svg"/>
+					</section>
+				</section>
+				<section>
+					<h3>Git Providers</h3>
+					<p><a href="https://github.com">Git Hub</a></p>
+					<p><a href="https://gitlab.com">Git Lab</a></p>
+					<p><a href="https://bitbucket.org">BitBucket</a></p>
+				</section>
+				<section>
+					<section>
+						<h2>Installing Git</h2>
+						<p></p>
+						<p><a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a></p>
+						<p>or</p>
+						<pre><code class="bash" data-trim>
+						apt-get install git
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Configure Git</h2>
+						<pre><code class="bash" data-trim>
+						git config --global user.name "Your name"
+						git config --global user.email "you@gmail.com"
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Create a Remote Repository</h2>
+						<p>1. Create it on GitHub (or your provider)
+						<p>2. Clone it to your local computer:
+						<pre><code class="bash" data-trim>
+						git clone https://github.com/user/repo.git
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Check Staging Status</h2>
+						<pre><code class="bash" data-trim>
+						git status
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Record (commit) your Changes</h2>
+						<pre><code class="bash" data-trim>
+						git add files_to_be_added
+						git commit -m 'Clear commit message'
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Push your Changes to the Remote Repository</h2>
+						<pre><code class="bash" data-trim>
+						git push origin master
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Create a new Feature (or Experiment or Bug Fix)</h2>
+						<pre><code class="bash" data-trim>
+						git checkout -b 'name_of_branch'
+						# edit files
+						git add -u
+						git commit -m 'Useful commit message'
+						git push origin 'name_of_branch'
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Recieve Updates from your Teammates</h2>
+						<pre><code class="bash" data-trim>
+						git fetch
+						git pull
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Merge a Branch into Master</h2>
+						<pre><code class="bash" data-trim>
+						git checkout name_of_branch 
+						git merge master
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Go Back In Time</h2>
+						<pre><code class="bash" data-trim>
+						git checkout COMMIT_HASH
+						# ... look around ...
+						git checkout master
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Ignore Files</h2>
+						<pre><code class="bash" data-trim>
+						nano .gitignore
+						</code></pre>
+					</section>
+				</section>
+
+				<section>
+					<h2>Determine who did what in a file</h2>
+					<pre><code class="bash" data-trim>
+					git blame path/to/file
+					</code></pre>
+				</section>
+
+				<!-- 
+				view-source:https://revealjs.com/?transition=slide#/13
+				todo: cheatsheet/vocabulary list
+				-->
+			</div>
+		</div>
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
