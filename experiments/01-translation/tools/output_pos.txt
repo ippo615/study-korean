@@ -1,0 +1,2086 @@
+dog:
+	animal: 개(ko)(gae),견(ko)(gyeon)(犬(ko)),구(ko)(gu)(狗(ko))
+	morally reprehensible person, : 개같은놈(gaegateunnom)
+
+cat:
+	domestic species: 고양이(ko)(goyang-i)
+	Translations to be checked: (pleaseverify)고양잇과(goyang-itgwa)
+
+bird:
+	animal: 새(ko)(sae)
+
+cow:
+	female domesticated ox or other bovine: 암소(ko)(amso)
+	Translations to be checked: (pleaseverify)소(ko)(so),(pleaseverify)암소(ko)(amso)
+
+pig:
+	mammal of genus : 돼지(ko)(dwaeji)
+
+mouse:
+	rodent of the genus : 생쥐(ko)(saengjwi),(mouse or rat)쥐(ko)(jwi)
+	computing: input device: 마우스(ko)(mauseu)
+
+horse:
+	members of the species : 말(ko)(mal)
+
+wing:
+	part of an animal: 날개(ko)(nalgae)
+	part of an aircraft: 날개(ko)(nalgae)
+	panel of a car which encloses the wheel area: please add this translation if you can
+	Translations to be checked: (pleaseverify)날개(ko)(nalgae)
+
+animal:
+	organism: 동물(ko)(dongmul)(動物(ko))
+	organism other than man: 동물(ko)(dongmul)(動物(ko))
+
+train:
+	line of connected cars or carriages: 기차(ko)(gicha)(汽車(ko)),열차(ko)(yeolcha)(列車(ko))
+
+plane:
+	
+
+car:
+	automobile, a vehicle steered by a driver: 자동차(ko)(jadongcha)(自動車(ko)),차(ko)(cha)(車(ko))
+	passenger-carrying unit in a subway or elevated train, whether powered or not: 객차(ko)(gaekcha)(客車(ko))
+	Translations to be checked: (pleaseverify)차(ko)(cha)
+
+truck:
+	vehicle designed for carrying cargo: 트럭(ko)(teureok)
+
+bicycle:
+	vehicle: 자전거(ko)(jajeon-geo)(自轉車)
+
+bus:
+	vehicle: 버스(ko)(beoseu)(South Korea),뻐스(ko)(ppeoseu)(North Korea)
+
+boat:
+	water craft: 배(ko)(bae)
+
+ship:
+	large water vessel: 배(ko)(bae),선박(ko)(seonbak)
+
+tire:
+	
+
+gasoline:
+	motor fuel: 가솔린(ko)(gasollin)
+
+engine:
+	mechanical device: 기관(ko)(gigwan),機關(ko),모터(ko)(moteo)
+	Translations to be checked: 엔진(enjin)
+
+ticket:
+	admission to entertainment: 표(ko)(pyo),티켓(ko)(tiket)
+	pass for transportation: 티켓(ko)(tiket),표(ko)(pyo)
+	Translations to be checked: (pleaseverify)표(ko)(pyo)
+
+transportation:
+	act of transporting: 수송(ko)(susong),운송(unsong),운수(ko)(unsu),운반(ko)(unban)
+	deportation to a penal colony: 유형(ko)(yuhyeong),추방(ko)(chubang)
+	means of conveyance: 교통기관(ko)(gyotonggigwan),탈것(talgeot)
+	Translations to be checked: (pleaseverify)수송(ko)(susong)
+
+city:
+	large settlement: 도시(ko)(dosi)(都市(ko)),시내(ko)(sinae)(市內(ko))
+
+house:
+	human abode: 집(ko)(jip),(honorific)댁(ko)(daek)
+	debating chamber for government politicians: 의원(ko)(uiwon)
+
+apartment:
+	domicile occupying part of a building: 아파트(ko)(apateu),맨션(maensyeon),아빠트(ko)(appateu)(North Korea)
+
+street:
+	paved part of road in a village or a town: 거리(ko)(geori),가로(ko)(garo),길(ko)(gil)
+
+road:
+	a way for travel: 길(ko)(gil),도로(ko)(doro)
+
+airport:
+	place designated for airplanes: 공항(ko)(gonghang)(空港(ko)),항공역(ko)(hanggong-yeok)(North Korea)(港空驛)
+
+train station:
+	
+
+bridge:
+	construction or natural feature that spans a divide: 다리(ko)(dari),(suffix)...교(...gyo)
+
+hotel:
+	establishment providing accommodation: 호텔(ko)(hotel),여관(ko)(yeogwan)(旅館(ko)),려관(ko)(ryeogwan)(North Korea),객사(gaeksa)(common in North Korea)
+
+restaurant:
+	an eating establishment in which diners are served food: 식당(ko)(sikdang)(食堂(ko)),레스토랑(ko)(reseutorang),음식점(ko)(eumsikjeom)
+
+farm:
+	a place where agricultural activities take place: 농장(ko)(nongjang)(農場(ko))
+
+court:
+	enclosed space; a courtyard: 안마당(ko)(anmadang),안뜰(antteul)
+	residence of a sovereign, prince, nobleman, or ether dignitary: 궁정(ko)(gungjeong)
+	hall, chamber, or place, where justice is administered: 법원(ko)(beobwon),재판소(ko)(jaepanso),법정(ko)(beopjeong)
+	persons officially assembled under authority of law: 법정(ko)(beopjeong),재판소(ko)(jaepanso)
+	tribunal established for the administration of justice: 법원(ko)(beobwon)(法院(ko)),법정(ko)(beopjeong),재판소(ko)(jaepanso)
+	place for playing the game of tennis and some other ball games: 코트(ko)(koteu)
+
+school:
+	
+
+office:
+	ceremonial religious duty or rite: 의식(ko)(uisik),예배(ko)(yebae)
+	position of responsibility: 지위(ko)(jiwi),직(ko)(jik),직위(ko)(jigwi)
+	room(s) or building used for non-manual work: 사무소(ko)(samuso)(事務所(ko)),사무실(ko)(samusil)(事務室(ko)),오피스(opiseu)
+	major governmental division: 관청(ko)(gwancheong),국(ko)(guk),청(ko)(cheong),부(ko)(bu)
+
+room:
+	space: 공간(ko)(gonggan),자리(ko)(jari),겨를(ko)(gyeoreul),틈(ko)(teum),짬(ko)(jjam),여유(ko)(yeoyu)
+	division in a building: 방(ko)(bang)
+
+town:
+	settlement: 마을(ko)(ma-eul),읍(ko)(eup),시(ko)(si)
+
+university:
+	institution of higher education: (College)대학(ko)(daehak)(大學(ko)),(University)대학교(ko)(daehakgyo)(大學校(ko))
+
+club:
+	weapon: 몽둥이(mongdung-i)
+	association of members: 클럽(ko)(keulleop),구락부(ko)(gurakbu),동호회(ko)(donghohoe)
+	nightclub: 나이트 클럽(naiteu keulleop)
+	playing card symbol, ♣: 클럽(ko)(keulleop),클로버(ko)(keullobeo)
+
+bar:
+	business licensed to sell intoxicating beverages: 술집(ko)(suljip),바(ko)(ba),퍼브(peobeu)
+
+park:
+	ground for recreation: 공원(ko)(gong-won)(公園(ko))
+
+camp:
+	outdoor place: 캠프(kaempeu),수용소(ko)(suyongso)
+
+store:
+	place where items may be kept: 창고(ko)(changgo)
+
+theater:
+	place or building: 극장(ko)(geukjang)(劇場(ko))
+
+library:
+	institution which holds books etc.: 도서관(ko)(doseogwan)(圖書館(ko))
+	collection of books: 장서(jangseo)
+	collection of subprograms: 라이브러리(raibeureori)
+	deck or draw pile: 서고(ko)(seogo)
+
+hospital:
+	large medical facility: 병원(ko)(byeong-won)(病院(ko)),의원(ko)(uiwon)
+
+church:
+	house of worship: 성당(ko)(seongdang)(聖堂),교회(ko)(gyohoe)(敎會(ko)),예배당(ko)(yebaedang)(禮拜堂(ko))
+	a religious organization: 교회(ko)(gyohoe)(敎會(ko))
+	Translations to be checked: (pleaseverify)교회(ko)(gyohoe)(教會) (2)
+
+market:
+	spacious site for trading: 시장(ko)(sijang)(市場(ko)),마켓(ko)(maket)
+	group of potential customers: 시장(ko)(sijang)(市場(ko)),마켓(ko)(maket)
+	geographical area where a commercial demand exists: 시장(ko)(sijang)(市場(ko)),마켓(ko)(maket)
+
+country:
+	region of land: 나라(ko)(nara)
+	nation state: 나라(ko)(nara),국가(ko)(gukga)(國家(ko))
+	the country, rural area, as opposed to the town or city: 시골(ko)(sigol)
+	country music: 컨트리(keonteuri)
+
+building:
+	act or process of building: 건설(ko)(geonseol)(建設(ko))
+	closed structure with walls and a roof: 건물(ko)(geonmul)(建物(ko)),빌딩(ko)(bilding)
+
+ground:
+	surface of the Earth: 땅(ko)(ttang)
+	soil, earth: 땅(ko)(ttang),흙(ko)(heuk),토양(ko)(toyang)
+	bottom of a body of water: (pleaseverify)바닥(ko)(badak)
+	basis, foundation, groundwork: 바탕(ko)(batang)
+	background, context, framework, surroundings: 바탕(ko)(batang),테두리(teduri)
+	electrical conductor connected to point of zero potential: 접지(jeopji)(接地),어어드(eo-eodeu),접지선(ko)(jeopjiseon)
+	electrical point of zero potential: 접지(jeopji)(接地)
+
+space:
+	physical extent in two or three dimensions: 공간(ko)(gonggan)
+	area beyond atmosphere of planets: 우주(ko)(uju)(宇宙(ko))
+	gap between written characters, lines etc.: 공백(gongbaek)
+	geometry: set of points: 공간(ko)(gonggan)
+	mathematics: generalized construct or set: 공간(ko)(gonggan)
+
+bank:
+	institution: 은행(ko)(eunhaeng)(銀行(ko))
+	branch office: 은행(ko)(eunhaeng)(銀行(ko))
+
+hat:
+	a head covering: 모자(ko)(moja)(帽子(ko))
+
+dress:
+	item of clothing worn by a woman: 드레스(deureseu),의복(ko)(uibok),원피스(ko)(wonpiseu)
+
+suit:
+	set of clothes: 양복(ko)(yangbok)(洋服(ko)),슈트(ko)(syuteu),정장(ko)(jeongjang)
+	card games: set of cards distinguished by color and emblems: 색깔(ko)(saekkkal)
+
+skirt:
+	clothing: 치마(ko)(chima),스커트(ko)(seukeoteu)
+
+shirt:
+	article of clothing: 셔츠(ko)(syeocheu),와이셔츠(ko)(waisyeocheu),남방(ko)(nambang)
+
+pants:
+	garment covering the body from the waist downwards: 바지(ko)(baji)
+	undergarment covering the genitals: 팬티(ko)(paenti)
+
+pocket:
+	bag stitched to an item of clothing: 호주머니(ko)(hojumeoni),포켓(poket)
+
+coat:
+	outer garment covering the upper torso and arms: 코트(ko)(koteu),외투(ko)(oetu)
+
+stain:
+	discoloured spot or area: 얼룩(ko)(eolluk)
+	substance used to soak into a surface and colour it: 착색(ko)(chaksaek)
+
+clothing:
+	clothes: 옷(ko)(ot),의상(ko)(uisang)
+
+red:
+	having red as its colour: 빨갛다(ko)(ppalgata),붉다(ko)(bukda)
+	left-wing, socialist or communist: 좌익(jwaik)
+
+green:
+	having green as its colour: 녹색의(noksaegui),초록의(chorogui)
+	sickly: 비리비리하다(biribirihada)
+	inexperienced: 풋나기다(punnagida)
+
+blue:
+	blue-colored : 푸르다(ko)(pureuda),파랗다(ko)(parata)
+	depressed: 우울하다(ko)(uulhada)
+	pornographic: 외설스러운(oeseolseureoun),도색적인(dosaekjeogin),원색적인(wonsaekjeogin)
+
+yellow:
+	having yellow as its colour: 노란(ko)(noran),노랗다(ko)(norata)(predicative)
+	lacking courage: 겁많은(geommaneun)
+
+brown:
+	having a brown colour: 갈색의(ko)(galsaegui)
+
+pink:
+	colored/coloured between red and white: 핑크(pingkeu),분홍빛(ko)(bunhongbit)
+
+orange:
+	having the colour of the fruit of an orange tree: 주황색의(ko)(juhwangsaegui)(朱黃色의(ko))
+
+black:
+	absorbing all light: 검다(ko)(geomda)(predicative),검은(ko)(geomeun)(attributive),까맣다(ko)(kkamata)(predicative),까만(kkaman)(attributive)
+
+white:
+	bright and colourless: 희다(ko)(huida)(predicative),흰(ko)(huin)(attributive),하얗다(ko)(hayata)(predicative),하얀(hayan)(attributive)
+
+gray:
+	having a color somewhere between white and black, as the ash of an ember: 회색의(ko)(hoesaegui)
+
+color:
+	conveying color: 띤(ttin)
+
+son:
+	a male person in relation to his parents: 아들(ko)(adeul),(honorific)아드님(ko)(adeunim)
+
+daughter:
+	female offspring: 딸(ko)(ttal),따님(ko)(ttanim)(honorific)
+
+mother:
+	female (human) who parents a child, gives birth to a baby, or is pregnant: 엄마(ko)(eomma),어머니(ko)(eomeoni),(honorific)어머님(ko)(eomeonim),에미(ko)(emi)(humble),어미(ko)(eomi)
+	one’s female parent: 엄마(ko)(eomma),어머니(ko)(eomeoni)
+
+father:
+	male parent: 아버지(ko)(abeoji),아빠(ko)(appa),(honorific)아버님(ko)(abeonim),애비(ko)(aebi)(humble)
+	term of address for a priest: please add this translation if you can
+
+parent:
+	person from whom one is descended: 부모(ko)(bumo),어버이(ko)(eobeoi)
+	Translations to be checked: (pleaseverify)어버이(ko)(eobeoi),(pleaseverify)부모(ko)(bumo)
+
+baby:
+	very young human being: 아기(ko)(agi),유아(ko)(yua)
+	young animal: 새끼(ko)(saekki)
+	term of endearment : 베이비(beibi)
+
+man:
+	adult male human: 사내(ko)(sanae),남자(ko)(namja)(男子(ko))
+	human: 사람(ko)(saram),인류(ko)(illyu)(人類(ko))
+
+woman:
+	adult female person: 여성(ko)(yeoseong)(女性(ko)),계집(ko)(gyejip),여자(ko)(yeoja)(女子(ko)),녀성(ko)(nyeoseong)(North Korea),녀자(ko)(nyeoja)(North Korea),여인(ko)(yeoin),녀인(ko)(nyeoin)(North Korea)
+
+brother:
+	male sibling: 형제(ko)(hyeongje),형님(ko)(hyeongnim),오빠(ko)(oppa),남동생(ko)(namdongsaeng),동생(ko)(dongsaeng),아우(ko)(au),브라더(beuradeo)(colloquial, ironic or humorous),오라버님(orabeonim)
+	Translations to be checked: (pleaseverify)형제(ko)(hyeongje)
+
+sister:
+	woman or girl having the same parents: 자매(ko)(jamae),(elder, of a male)누나(ko)(nuna),(elder, of a female)언니(ko)(eonni),(younger)여동생(ko)(yeodongsaeng),(younger sibling, both genders)동생(ko)(dongsaeng),시스터(siseuteo)(colloquial, ironic or humorous),누이(ko)(nu-i)
+	a nun; a female member of a religious community: 수녀(ko)(sunyeo)
+
+grandfather:
+	grandfather (from either side): 할아버지(ko)(harabeoji),친할아버지(ko)(chinharabeoji)(paternal),외할아버지(ko)(oeharabeoji)(maternal)
+
+grandmother:
+	mother of someone's parent: 할머니(ko)(halmeoni),외할머니(ko)(oehalmeoni)(maternal)
+
+husband:
+	male partner in marriage: 남편(ko)(nampyeon),양반(ko)(yangban),량반(ko)(ryangban)(North Korea)
+
+wife:
+	married woman: 아내(ko)(anae),집사람(ko)(jipsaram)(humble),마누라(ko)(manura)(humble),와이프(waipeu),부인(ko)(bu-in)(honorific)
+
+king:
+	a male of a royal family who is the supreme ruler of his nation: 임금(ko)(imgeum),왕(ko)(wang)(王(ko)),국왕(ko)(gugwang)
+	a powerful or influential person: 왕(ko)(wang)
+	a playing piece in chess: 킹(king)
+	a playing card with the image of a king in it: 킹(king)
+	(draughts, checkers) a piece that reached the farthest row forward: 킹(king)
+
+queen:
+	female monarch: 여왕(ko)(yeowang)(女王(ko)),황후(ko)(hwanghu)(皇后(ko)),녀왕(ko)(nyeowang)(North Korea)
+	wife of a king: 왕비(ko)(wangbi)(王妃(ko)),왕후(ko)(wanghu)(王后(ko)),궁비(gungbi)(宮妃
+	chess piece: 퀸(kwin)
+	playing card: 퀸(kwin)
+	reproductive female animal in a hive: 여왕(ko)(yeowang)
+	Translations to be checked: (pleaseverify)여왕(ko)(yeowang)((pleaseverify)女王(ko))
+
+president:
+	the head of state of a republic: 대통령(ko)(daetongnyeong),총통(chongtong)
+	the primary leader of a corporation: 회장(ko)(hoejang)(會長(ko)),사장(ko)(sajang)
+	a person presiding over a meeting, chair, presiding officer, presider: 의장(ko)(uijang)
+
+boy:
+	young male: 소년(ko)(sonyeon),남자아이(ko)(namjaai),남자애(namjaae),아이(ko)(ai),꼬마(ko)(kkoma)
+	Translations to be checked: (pleaseverify)남자(ko)(namja)
+
+girl:
+	young female person: 소녀(ko)(sonyeo),여자아이(ko)(yeojaai),녀자아이(nyeojaai)(North Korea)
+
+adult:
+	fully grown human: 성인(ko)(seong-in)(成人(ko)),어른(ko)(eoreun)
+
+human:
+	adult male human: 사내(ko)(sanae),남자(ko)(namja)(男子(ko))
+	human: 사람(ko)(saram),인류(ko)(illyu)(人類(ko))
+
+friend:
+	person whose company one enjoys: 친구(ko)(chin-gu)(親舊(ko))(especially in South Korea),벗(ko)(beot),동무(ko)(dongmu)(since 1945 chiefly in North Korea)
+
+victim:
+	one who is harmed: 희생자(ko)(huisaengja)
+	one who is harmed by a disaster or other adverse circumstance: 희생자(ko)(huisaengja)
+	a living being slain and offered as a sacrifice: 희생(ko)(huisaeng)
+
+player:
+	one who plays any game or sport: 선수(ko)(seonsu),플레이어(ko)(peulleieo)
+	electronic device: 플레이어(ko)(peulleieo)
+	software application: 플레이어(ko)(peulleieo)
+
+fan:
+	hand-held device: 부채(ko)(buchae)
+	electrical device: 선풍기(ko)(seonpunggi)
+
+crowd:
+	group of people: 군중(ko)(gunjung)
+	group of things: 무더기(ko)(mudeogi)
+
+person:
+	individual: 사람(ko)(saram),(suffix)-인(ko)(in)(人(ko)),분(ko)(bun)(honorific)
+	specifically a human being : 사람(ko)(saram)
+	the physical body seen as distinct from the mind: 개인(ko)(gaein)
+	any individual or formal organization with standing before the courts: 법인(ko)(beobin)
+	grammar: linguistic category: 인칭(ko)(inching)
+
+teacher:
+	person who teaches: 선생(ko)(seonsaeng)(先生(ko)),선생님(ko)(seonsaengnim)(honorific),교사(ko)(gyosa)(敎師(ko))
+
+student:
+	person who studies a subject: 학생(ko)(haksaeng)(學生(ko))
+
+lawyer:
+	professional person authorized to practice law: 변호사(ko)(byeonhosa)
+
+doctor:
+	person who has attained a doctorate: 박사(ko)(baksa)
+
+patient:
+	someone who receives treatment from a doctor: 환자(ko)(hwanja)(患者(ko))
+
+waiter:
+	a server in a restaurant or similar: 웨이터(ko)(weiteo)
+
+secretary:
+	person keeping records and handling clerical work: 비서(ko)(biseo)(秘書(ko))
+	head of a department of government: 대신(ko)(daesin),장관(ko)(janggwan)
+
+priest:
+	clergyman (clergywoman, clergyperson): 신부(ko)(sinbu)(神父(ko)),사제(ko)(saje),성직자(seongjikja)
+
+police:
+	an organisation that enforces the law: 경찰(ko)(gyeongchal)(警察(ko))
+
+army:
+	military force concerned mainly with ground operations: 육군(ko)(yukgun)(陸軍(ko)),군대(ko)(gundae)(軍隊(ko))
+
+soldier:
+	member of an army: 군인(ko)(gunin)(軍人(ko)),병사(ko)(byeongsa)(兵士(ko))
+	a guardsman: 경비원(ko)(gyeongbiwon)(警備員(ko))
+
+artist:
+	person who creates art: 화가(ko)(hwaga)(畫家)
+
+author:
+	originator or creator of a work: 저자(ko)(jeoja),작가(ko)(jakga),글쓴이(geulsseuni),지은이(jieuni)
+
+manager:
+	person whose job is to manage something: 관리자(ko)(gwallija)(管理者(ko)),매니저(maenijeo)
+
+reporter:
+	journalist: 기자(ko)(gija)(記者(ko)),보고자(bogoja)(報告者)
+
+actor:
+	person who performs in a theatrical play or film : 배우(ko)(bae-u)(俳優(ko)),여배우(ko)(yeobae-u)(女俳優(ko))(actress),연기자(ko)(yeon-gija)(演技者(ko)),여우(ko)(yeou)(女優(ko))(actress)
+
+job:
+	task: 일(ko)(il)
+	economic role for which a person is paid: 직업(ko)(jigeop),일자리(ko)(iljari),일(ko)(il),아르바이트(ko)(areubaiteu)(part-time),알바(alba)(part-time, abbreviation)
+
+religion:
+	system of beliefs dealing with soul, deity and/or life after death: 종교(ko)(jonggyo)(宗教(ko))
+
+heaven:
+	sky: 하늘(ko)(haneul)
+	paradise and upper-world: 하늘(ko)(haneul),하늘나라(ko)(haneullara)
+
+hell:
+	abode for the condemned: 지옥(ko)(jiok)(地獄(ko))
+
+death:
+	cessation of life: 죽음(ko)(jugeum),사망(ko)(samang)
+	personification of death: 사신(ko)(sasin)(死神(ko)),저승사자(jeoseungsaja)
+	Tarot: 죽음(ko)(jugeum)
+
+medicine:
+	substance which promotes healing: 약(ko)(yak)
+	treatment or cure: 치료(ko)(chiryo)(治療(ko))
+	field of study: 의학(ko)(uihak)(醫學(ko))
+	profession: 의사(ko)(uisa)
+
+money:
+	means of exchange and measure of value: 돈(ko)(don),금전(ko)(geumjeon)(金錢(ko)),화폐(ko)(hwapye)(貨幣(ko))
+	currency: 돈(ko)(don),화폐(ko)(hwapye)(貨幣(ko))
+	hard cash: 현금(ko)(hyeon-geum)(現金(ko))
+	wealth: 부(ko)(bu)(富(ko))
+
+dollar:
+	designation for specific currency: 달러(ko)(dalleo),불(ko)(bul)
+
+bill:
+	
+
+marriage:
+	state of being married: 결혼(ko)(gyeolhon)(結婚(ko))
+	union of two people: 결혼(ko)(gyeolhon)(結婚(ko))
+
+wedding:
+	marriage ceremony: 결혼식(ko)(gyeolhonsik)(結婚式(ko))
+
+team:
+	group of people: 팀(ko)(tim)
+
+relationship:
+	connection or association: 관계(ko)(gwan-gye)(關係(ko))
+
+race:
+	contest: 경주(ko)(gyeongju)(競走(ko))
+	Translations to be checked: (pleaseverify)시합(ko)(sihap)
+
+gender:
+	grammar: division of nouns and pronouns: 성(ko)(seong)(性(ko))
+	biological sex: 성(ko)(seong)(性(ko)),성별(ko)(seongbyeol)(性別(ko))
+
+murder:
+	an act of deliberate killing: 살인(ko)(sarin)(殺人(ko))
+	the crime of deliberate killing: 살인죄(ko)(sarinjoe)
+
+prison:
+	place of long-term confinement for those convicted of serious crimes: 교도소(ko)(gyodoso),감옥(ko)(gamok),형무소(hyeongmuso)
+
+technology:
+	the study of or a collection of techniques: 기술(ko)(gisul)(技術(ko))
+	a particular technological concept: 과학기술(ko)(gwahakgisul)(科學技術)
+
+energy:
+	impetus behind activity: 에너지(ko)(eneoji),에네르기(ko)(enereugi)(North Korea),동력(ko)(dongnyeok)(動力(ko))
+	capacity to do work: 에너지(ko)(eneoji)
+	physics: 에너지(ko)(eneoji),동력(ko)(dongnyeok)(動力(ko))
+
+war:
+	conflict involving organized use of arms: 전쟁(ko)(jeonjaeng)(戰爭(ko))
+
+peace:
+	tranquility, quiet, harmony; absence of violence: 평안(ko)(pyeong-an)(平安(ko)),평화(ko)(pyeonghwa)(平和(ko))
+	state of mind: 평정(ko)(pyeongjeong)
+	harmony; lack of conflict in personal relations: 화목(ko)(hwamok)
+	state of being free from war: 평화(ko)(pyeonghwa)(平和(ko))
+
+attack:
+	attempt to cause damage, injury, or death: 공격(ko)(gonggyeok)
+	offense of a battle: 공격(ko)(gonggyeok)(攻擊(ko))
+
+election:
+	process of choosing a new leader or representatives: 선거(ko)(seon-geo)(選擧(ko))
+
+magazine:
+	periodical: 잡지(ko)(japji)(雜誌(ko))
+	ammunition storehouse: 탄약고(ko)(tanyakgo)
+	ammunition clip or chamber enabling multiple rounds to be held before firing: 탄창(ko)(tanchang)
+
+newspaper:
+	publication: 신문(ko)(sinmun)(新聞(ko))
+
+poison:
+	substance harmful to a living organism: 독(ko)(dok)
+
+gun:
+	a very portable, short weapon, for hand use: 총(ko)(chong),권총(ko)(gwonchong)
+	(military) A cannon with relatively long barrel, operating with relatively low angle of fire, and having a high muzzle velocity: 총(ko)(chong)(銃(ko))
+
+sport:
+	any athletic activity that uses physical skills: 운동(ko)(undong),스포츠(ko)(seupocheu)
+
+race:
+	contest: 경주(ko)(gyeongju)(競走(ko))
+	Translations to be checked: (pleaseverify)시합(ko)(sihap)
+
+exercise:
+	any activity designed to develop or hone a skill or ability: 연습(ko)(yeonseup)(練習(ko)),련습(ko)(ryeonseup)(North Korea)
+	physical activity intended to improve strength and fitness: 운동(ko)(undong)(運動(ko))
+
+ball:
+	solid or hollow sphere: 공(ko)(gong),구(ko)(gu)(球(ko))
+	object, generally spherical, used for playing games: 공(ko)(gong),볼(ko)(bol)
+	baseball: a pitch that falls outside the strike zone: 볼(ko)(bol)
+	testicle: 불알(ko)(bural),불(ko)(bul)
+	anatomy: ball of a foot: 볼(ko)(bol)
+
+game:
+	playful activity that may be unstructured, amusement, pastime: 놀이(ko)(nori),게임(ko)(geim)
+	particular instance of playing a game; match: 경기(ko)(gyeonggi)
+
+price:
+	cost required to gain possession of something: 값(ko)(gap),가격(ko)(gagyeok)(價格(ko))
+	cost of an action or deed: 품삯(pumsak),노임(ko)(noim)(勞賃(ko))
+
+drug:
+	psychoactive substance ingested for recreational use, especially illegal and addictive one: 마약(ko)(mayak)(麻藥)
+
+sign:
+	visible indication: 신호(ko)(sinho)
+	flat object bearing a message: 간판(ko)(ganpan)
+	any of several specialized non-alphabetic symbols: 부호(ko)(buho)
+
+science:
+	collective discipline of learning acquired through the scientific method: 과학(ko)(gwahak)(科學(ko))
+	particular discipline or branch of learning: 과학(ko)(gwahak)
+	fact of knowing something: 지식(ko)(jisik)(知識(ko))
+	knowledge gained through study or practice: 지식(ko)(jisik)(知識(ko))
+
+god:
+	deity : 신(ko)(sin)(神(ko)),하나님(ko)(hananim),하느님(ko)(haneunim)
+
+art:
+	human effort: 예술(ko)(yesul)(藝術(ko))
+	conscious production or arrangement: 미술(ko)(misul)
+	Translations to be checked: (pleaseverify)미술(ko)(misul)
+
+band:
+	strip of material wrapped around things to hold them together: 줄무늬(ko)(julmunui),끈(ko)(kkeun),밴드(baendeu)
+	strip along the spine of a book where the pages are attached: 책의 고정축(chaegui gojeongchuk),(pleaseverify)지탱축(jitaengchuk)
+	part of radio spectrum: 밴드(baendeu),대역폭(daeyeokpok)
+
+song:
+	music with words: 노래(ko)(norae),(Sino-Korean:)가요(ko)(gayo)(歌謠(ko)),가곡(ko)(gagok)(歌曲(ko))
+
+instrument:
+	musical device: 악기(ko)(akgi)(樂器(ko))
+	measuring device: 계기(gyegi)(計器)
+	tool: 도구(ko)(dogu)(道具(ko)),기계(ko)(gigye)(器械(ko)),기구(ko)(gigu)(器具(ko))
+	legal document: 증서(jeungseo)(證書(ko))
+	person used as a mere tool: 앞잡이(ko)(apjabi)
+
+music:
+	sound, organized in time in a melodious way: 음악(ko)(eumak)(音樂(ko))
+	Translations to be checked: (pleaseverify)음악(ko)(eumak)((pleaseverify)音樂(ko))
+
+movie:
+	motion picture: 영화(ko)(yeonghwa)(映畫)
+
+art:
+	human effort: 예술(ko)(yesul)(藝術(ko))
+	conscious production or arrangement: 미술(ko)(misul)
+	Translations to be checked: (pleaseverify)미술(ko)(misul)
+
+coffee:
+	beverage: 커피(ko)(keopi)
+	beans: 커피콩(keopikong)
+	colour: 커피색(ko)(keopisaek)
+
+tea:
+	dried leaves of tea plant: 차(ko)(cha)(茶(ko)),찻잎(channip),다엽(dayeop)(茶葉)
+	drink made from leaves of tea plant: 차(ko)(cha)(茶(ko))
+
+wine:
+	alcoholic beverage made from grapes: 포도주(ko)(podoju)(葡萄酒(ko)),와인(ko)(wain)
+	alcoholic beverage made from other fruit or vegetables: 술(ko)(sul),주(ko)(ju)
+	wine colour: 포도주빛의(podoju bichui),포도주색(ko)(podojusaek)
+
+beer:
+	alcoholic drink made of malt: 맥주(ko)(maekju)
+
+juice:
+	liquid from a plant: 즙(ko)(jeup)(汁(ko)),과일단물(ko)(gwaildanmul)
+	beverage made of juice: 즙(ko)(jeup)(汁(ko)),주스(ko)(juseu),과일단물(ko)(gwaildanmul)(rare, North Korea)
+
+water:
+	clear liquid H₂O: 물(mul),수(su, 水)
+
+milk:
+	liquid: 젖(ko)(jeot),유즙(yujeup),밀크(milkeu)
+
+beverage:
+	drink: 음료(ko)(eumnyo),마실 것(masil geot)
+
+food:
+	any substance consumed by living organisms to sustain life: 음식(ko)(eumsik)(飮食(ko))
+	foodstuff: 식품(ko)(sikpum)
+
+egg:
+	body housing an embryo: 달걀(ko)(dalgyal)
+	egg of domestic fowl as food item: 계란(ko)(gyeran)(chicken egg),달걀(ko)(dalgyal)
+	Translations to be checked: (pleaseverify)알(ko)(al)
+
+cheese:
+	dairy product: 치즈(ko)(chijeu),치이즈(chiijeu)
+
+bread:
+	baked dough made from cereals: 빵(ko)(ppang)
+
+soup:
+	dish: 죽(ko)(juk),국(ko)(guk),수프(ko)(supeu),탕(ko)(tang)
+
+cake:
+	a sweet dessert: 과자(ko)(gwaja)(菓子(ko)),케이크(ko)(keikeu),케잌(keik)(North Korea)
+
+chicken:
+	bird: 닭(ko)(dak)
+	meat: 닭고기(ko)(dakgogi),치킨(ko)(chikin)
+
+pork:
+	meat of a pig: 돼지고기(ko)(dwaejigogi)
+
+beef:
+	meat: 쇠고기(ko)(soegogi),소고기(ko)(sogogi),(in compounds)-우(u)(-牛),(uncommon)우육(uyuk)(牛肉(ko))
+
+apple:
+	fruit: 사과(ko)(sagwa)
+
+banana:
+	fruit: 바나나(ko)(banana)
+	colour: 바나나색(ko)(bananasaek)
+
+orange:
+	tree: 오렌지나무(orenji-namu)
+	fruit: 오렌지(ko)(orenji)
+	colour: 주황색(ko)(juhwangsaek)
+
+lemon:
+	citrus fruit: 레몬(ko)(remon)
+	tree: 레몬(ko)(remon),레몬나무(remonnamu)
+
+corn:
+	
+
+rice:
+	plants: 벼(ko)(byeo)
+	seeds used as food: (uncooked)쌀(ko)(ssal),(cooked)밥(ko)(bap),(honorific)진지(ko)(jinji)
+
+oil:
+	liquid fat: 기름(ko)(gireum),(as a component)유(ko)(yu)(油(ko))
+	petroleum-based liquid: 기름(ko)(gireum),석유(ko)(seogyu)(石油(ko))
+
+seed:
+	fertilized grain: 씨(ko)(ssi),씨앗(ko)(ssiat)
+	precursor: 씨앗(ko)(ssiat)
+	offspring, descendants, progeny: 자손(ko)(jason)
+
+knife:
+	utensil or tool designed for cutting: 칼(ko)(kal),나이프(ko)(naipeu)
+	Translations to be checked: (pleaseverify)칼(ko)(kal)
+
+spoon:
+	scooped utensil for eating (or serving): 숟가락(ko)(sutgarak),스푼(ko)(seupun)
+
+fork:
+	pronged tool: 쇠스랑(soeseurang),갈퀴(ko)(galkwi)
+	eating utensil: 포크(ko)(pokeu)
+	intersection: 갈림길(ko)(gallimgil)
+
+plate:
+	flat dish: 접시(ko)(jeopsi)
+
+cup:
+	drinking vessel: 컵(ko)(keop),고뿌(ko)(goppu)(North Korea)
+
+breakfast:
+	first meal of the day: 조반(ko)(joban)(朝飯(ko)),아침 식사(ko)(achim siksa),조식(ko)(josik)
+
+lunch:
+	meal around midday: 점심(ko)(jeomsim)(點心),중식(ko)(jungsik)(中食(ko))
+
+dinner:
+	main meal of the day: 저녁(ko)(jeonyeok)
+	Translations to be checked: (pleaseverify)정 식사(jeong siksa)
+
+sugar:
+	sucrose from sugar cane or sugar beet and used to sweeten food and drink: 설탕(ko)(seoltang)(雪糖(ko)),사탕(ko)(satang)(砂糖(ko))
+	Translations to be checked: (pleaseverify)설탕(ko)(seoltang)
+
+salt:
+	sodium chloride: 소금(ko)(sogeum)
+	compound of an acid and a base: 염(ko)(yeom)
+
+bottle:
+	container: 병(ko)(byeong)(甁(ko))
+	contents of such a container: 한병의분령(han byeong-ui bunnyeong)
+
+food:
+	any substance consumed by living organisms to sustain life: 음식(ko)(eumsik)(飮食(ko))
+	foodstuff: 식품(ko)(sikpum)
+
+home:
+	house or structure in which someone lives: 집(ko)(jip),댁(ko)(daek)(honorific)
+	someone’s native land: 고향(ko)(gohyang)(故鄕(ko))
+
+table:
+	item of furniture: 테이블(ko)(teibeul),탁자(ko)(takja)(卓子(ko)),상(ko)(sang)(床(ko)),밥상(ko)(bapsang)
+	grid of data in rows and columns: 표(ko)(pyo)(表(ko))
+	collection of arithmetic calculations: 표(ko)(pyo)(表(ko))
+	computing: a lookup table: 테이블(ko)(teibeul)
+
+chair:
+	furniture: 의자(ko)(uija)(椅子(ko))
+
+bed:
+	piece of furniture: 침대(ko)(chimdae)(寢臺(ko)),잠자리(ko)(jamjari)
+	prepared spot to spend the night in: 잠자리(ko)(jamjari)
+	the bottom of a lake or other body of water: 하상(ko)(hasang)(河床)
+	garden plot: 모판(mopan)(-板)
+
+dream:
+	imaginary events seen while sleeping: 꿈(ko)(kkum)
+	hope or wish: 꿈(ko)(kkum)
+
+window:
+	opening for light and air: 창(ko)(chang),(cashier window)창구(ko)(changgu)(窓口(ko)),창문(ko)(changmun)
+
+door:
+	portal of entry into a building, room or vehicle: 문(ko)(mun)
+
+bedroom:
+	room in a house where a bed is kept for sleeping: 침실(ko)(chimsil)(寢室)
+
+kitchen:
+	room: 부엌(ko)(bueok),주방(ko)(jubang)
+
+bathroom:
+	a room with a bathtub: 욕실(ko)(yoksil)(浴室(ko)),목욕실(ko)(mogyoksil)
+
+pencil:
+	graphite writing-instrument: 연필(ko)(yeonpil)(鉛筆)
+
+photograph:
+	picture: 사진(ko)(sajin)(寫真)
+
+soap:
+	substance: 비누(ko)(binu),석감(seokgam)
+
+book:
+	collection of sheets of paper bound together containing printed or written material: 책(ko)(chaek)(冊(ko)),도서(ko)(doseo)(圖書(ko))
+
+page:
+	one side of a leaf of a book: 페이지(ko)(peiji),쪽(ko)(jjok)
+
+key:
+	device designed to open and close a lock: 열쇠(ko)(yeolsoe)
+	button on a typewriter or computer keyboard: 키(ko)(ki),버튼(ko)(beoteun)
+	Translations to be checked: (pleaseverify)열쇠(ko)(yeolsoe)
+
+paint:
+	substance: 페인트(ko)(peinteu),도료(ko)(doryo)
+
+letter:
+	a symbol in an alphabet: 문자(ko)(munja)(文字(ko)),글씨(ko)(geulssi)
+	written message: 편지(ko)(pyeonji)(便紙(ko),片紙(ko))
+
+note:
+	memorandum: 기록(ko)(girok),메모(ko)(memo),노트(ko)(noteu)
+	musical sound: 음표(ko)(eumpyo)
+	Translations to be checked: (pleaseverify)메모(ko)(memo),(pleaseverify)쪽지(ko)(jjokji)
+
+wall:
+	defensive rampart: 벽(ko)(byeok)
+	structure built for defense surrounding an area: 벽(ko)(byeok)
+	Translations to be checked: (pleaseverify)벽(ko)(byeok)
+
+paper:
+	sheet material: 종이(ko)(jong-i)
+	open hand in the game of rock paper scissors: please add this translation if you can
+
+floor:
+	bottom part of a room: 바닥(ko)(badak)
+
+ceiling:
+	upper limit of room: 천장(ko)(cheonjang), (天障)
+
+roof:
+	the cover at the top of a building: 지붕(ko)(jibung)
+
+lock:
+	something used for fastening: 자물쇠(ko)(jamulsoe)
+
+telephone:
+	a device used for two-way talking with other people: 전화(ko)(jeonhwa)(電話(ko))
+
+garden:
+	piece of land outside with flowers and plants: 정원(ko)(jeong-won)(庭園(ko))
+
+yard:
+	land around a house: 뜰(ko)(tteul),마당(ko)(madang)
+	enclosed area for a specific purpose: 울안(uran)
+
+needle:
+	implement for sewing etc.: 바늘(ko)(baneul)
+
+bag:
+	flexible container: 가방(ko)(gabang),봉지(ko)(bongji),봉투(ko)(bongtu)
+	Translations to be checked: (pleaseverify)자루(ko)(jaru),(pleaseverify)포대(ko)(podae)(包袋(ko)),(pleaseverify)가방(ko)(gabang)
+
+box:
+	cuboid space; container: 상자(ko)(sangja),박스(ko)(bakseu)
+
+gift:
+	something given to another voluntarily, without charge: 선물(ko)(seonmul)(膳物)
+
+card:
+	flat, normally rectangular piece of stiff paper, plastic etc.: 카드(ko)(kadeu)
+
+ring:
+	circumscribing object: 고리(ko)(gori)
+	round piece of (precious) metal worn around the finger: 가락지(ko)(garakji),반지(ko)(banji)
+	place where some sports take place: 링(ko)(ring)
+
+tool:
+	mechanical device intended to make a task easier: 도구(ko)(dogu),툴(tul)
+	a software for developers: 툴(tul)
+	Translations to be checked: (pleaseverify)연장(ko)(yeonjang)
+
+electronics:
+	None: 전자공학(ko)(jeonjagonghak)(電子工學(ko))
+
+clock:
+	instrument to measure or keep track of time: 시계(ko)(sigye)(時計(ko))
+
+lamp:
+	device producing light: 램프(ko)(raempeu),전등(ko)(jeondeung),등불(deungbul)
+	oil device producing light: 램프(ko)(raempeu),광명(ko)(gwangmyeong)
+
+fan:
+	hand-held device: 부채(ko)(buchae)
+	electrical device: 선풍기(ko)(seonpunggi)
+
+cell:
+	room in a prison for containing inmates: 독방(ko)(dokbang)
+	basic unit of a living organism: 세포(ko)(sepo)(細胞(ko))
+	geometry: a three-dimensional facet of a polytope: 포(ko)(po)
+
+phone:
+	
+
+network:
+	fabric or structure of fibrous elements: 그물(ko)(geumul)
+	interconnected group or system: 네트워크(ko)(neteuwokeu),망(ko)(mang)(網(ko))
+	multiple computers and other devices connected together: 네트워크(ko)(neteuwokeu),망(ko)(mang)(網(ko))
+
+computer:
+	device: 컴퓨터(ko)(keompyuteo),전자계산기(ko)(jeonjagyesan-gi)(電子計算機)
+
+program:
+	set of structured activities: 계획(ko)(gyehoek),프로그램(ko)(peurogeuraem)
+	performance of a show or other broadcast on radio or television: 프로그램(ko)(peurogeuraem),프로(ko)(peuro)
+	software application: 프로그램(ko)(peurogeuraem)
+
+laptop:
+	computing: a laptop computer: 노트북(ko)(noteubuk),랩톱(raeptop)
+
+screen:
+	viewing area of electronic output device: 화면(ko)(hwamyeon),스크린(seukeurin)
+	movie viewing area: 은막(eunmak),스크린(seukeurin)
+
+camera:
+	still camera: 카메라(ko)(kamera),사진기(ko)(sajin-gi)
+	movie camera: 비디오 카메라(bidio kamera),카메라(ko)(kamera)
+
+television:
+	medium: 텔레비전(ko)(tellebijeon),티브이(ko)(tibeu-i),티비(tibi),티뷔(tibwi),테레비(ko)(terebi),텔레비(tellebi)
+	device for receiving television signals: 텔레비전(ko)(tellebijeon),티비(tibi),티뷔(tibwi),텔레비(tellebi)
+	program broadcasting: 텔레비전(ko)(tellebijeon)
+
+radio:
+	technology: 라디오(ko)(radio),라지오(ko)(rajio)(North Korea)
+	receiver: 라디오(ko)(radio)
+
+body:
+	physical structure of a human or animal: 몸(ko)(mom),신체(ko)(sinche)
+	corpse: 주검(jugeom),송장(songjang),시신(ko)(sisin)(屍身(ko)),시체(ko)(siche)(屍體(ko)),사체(sache)(死體(ko))
+	torso: 몸통(ko)(momtong)
+
+head:
+	part of the body: 머리(ko)(meori)
+	computing: part of a disk drive responsible for reading and writing data: please add this translation if you can
+
+neck:
+	part of body connecting the head and the trunk: 목(ko)(mok)
+	Translations to be checked: (pleaseverify)목(ko)(mok)
+
+face:
+	front part of head: 얼굴(ko)(eolgul)
+	public image: please add this translation if you can
+	geometry: bounding surface of a polyhedron: 면(ko)(myeon)(面(ko))
+
+beard:
+	facial hair: 수염(ko)(suyeom),턱수염(ko)(teoksuyeom)
+
+hair:
+	mass of such filaments on the human head: 머리칼(ko)(meorikal),머리카락(ko)(meorikarak),머리(ko)(meori)
+
+eye:
+	organ: 눈(ko)(nun)
+	hole in needle: 귀(ko)(gwi),바늘귀(baneul-gwi)
+	of a hurricane: 눈(ko)(nun)
+	mark on an animal resembling an eye: 눈(ko)(nun)
+	of a potato: 눈(ko)(nun)
+	ability to notice what others might miss: 눈(ko)(nun)
+
+mouth:
+	the opening of a creature through which food is ingested: 입(ko)(ip)
+	the end of a river out of which water flows: 하구(ko)(hagu),河口(ko)
+
+lip:
+	fleshy protrusion framing the mouth: 입술(ko)(ipsul)
+
+nose:
+	protuberance on the face: 코(ko)(ko)
+	snout, nose of an animal: 코(ko)(ko)
+	tip of an object: 코(ko)(ko)
+	Translations to be checked: (pleaseverify)코(ko)(ko)
+
+tooth:
+	biological tooth: 이(ko)(i),니(ko)(ni),(for beasts)이빨(ko)(ippal),치아(ko)(chia)
+	saw tooth: 톱니(tomni)
+	gear tooth: 톱니(tomni)
+
+ear:
+	organ of hearing: 귀(ko)(gwi)
+
+tear:
+	
+
+tongue:
+	organ: 혀(ko)(hyeo)
+
+back:
+	the rear of body: 등(ko)(deung)
+	the reverse side: 뒤(ko)(dwi)
+	Translations to be checked: (pleaseverify)이면(imyeon),(pleaseverify)배후(ko)(baehu)
+
+toe:
+	each of the five digits on the end of the foot: 발가락(ko)(balgarak)
+	Translations to be checked: (pleaseverify)발가락(ko)(balgarak)
+
+finger:
+	(anatomy) extremity of the hand: 손가락(ko)(son-garak)
+
+hand:
+	part of the fore limb: 손(ko)(son)
+	index or pointer on  a dial, such as on an analogue/analog clock: 바늘(ko)(baneul)
+	Translations to be checked: (pleaseverify)손(ko)(son)(5),(pleaseverify)시계바늘(sigyebaneul)(2),(pleaseverify)패(ko)(pae)[牌] (3),(pleaseverify)일손(ko)(ilson)(5)
+
+leg:
+	lower limb from groin to ankle: 다리(ko)(dari),각(ko)(gak)(脚(ko))
+	portion of the lower appendage from knee to ankle: 종아리(jong-ari),하퇴(hatoe)
+	stage of journey: 여정(yeojeong),구간(ko)(gugan)
+	game played in a tournament: 경기(ko)(gyeonggi)
+	side in a triangle: 변(ko)(byeon),빗변(bitbyeon)
+
+arm:
+	upper appendage from shoulder to wrist: 팔(ko)(pal)
+
+shoulder:
+	joint between arm and torso: 어깨(ko)(eokkae)
+
+heart:
+	an organ: 심장(ko)(simjang)(心臟(ko))
+	emotions or kindness: 마음(ko)(ma-eum)
+	a suit of cards: 하트(ko)(hateu)
+	Translations to be checked: (pleaseverify)심혼(ko)(simhon)
+
+blood:
+	vital liquid flowing in animal bodies: 피(ko)(pi)
+	family relationship due to birth, e.g. between siblings: 혈통(ko)(hyeoltong)
+	blood test or blood sample: (test)혈액 검사(hyeoraek geomsa)
+
+brain:
+	organ: 뇌(ko)(noe),두뇌(ko)(dunoe)
+
+knee:
+	joint in the middle of the leg and area around it: 무릎(ko)(mureup)
+
+sweat:
+	fluid that exits the body through pores: 땀(ko)(ttam)
+
+disease:
+	an abnormal condition of the body causing discomfort or dysfunction: 질병(ko)(jilbyeong)(疾病(ko))
+
+bone:
+	material: 뼈(ko)(ppyeo)
+	component of a skeleton: 뼈(ko)(ppyeo)
+
+voice:
+	sound uttered by the mouth: 목소리(ko)(moksori),소리(ko)(sori),음성(ko)(eumseong)
+	Translations to be checked: (pleaseverify)목소리(ko)(moksori)
+
+skin:
+	outer protective of the body of a person or animal: 살갗(salgat),피부(ko)(pibu)(皮膚(ko))
+	skin and fur of an animal used by humans: 가죽(ko)(gajuk)
+	congealed layer on the surface of a liquid: 막(ko)(mak),피막(ko)(pimak)
+
+body:
+	physical structure of a human or animal: 몸(ko)(mom),신체(ko)(sinche)
+	corpse: 주검(jugeom),송장(songjang),시신(ko)(sisin)(屍身(ko)),시체(ko)(siche)(屍體(ko)),사체(sache)(死體(ko))
+	torso: 몸통(ko)(momtong)
+
+nature:
+	the natural world: 자연(ko)(jayeon)(自然(ko))
+	everything related to biological and geographical states: 자연(ko)(jayeon)(自然(ko))
+	Translations to be checked: (pleaseverify)나름(ko)(nareum),(pleaseverify)자연(ko)(jayeon)
+
+sea:
+	body of water: 바다(ko)(bada),해양(ko)(haeyang)(海洋(ko))
+
+ocean:
+	one of the large bodies of water: 대양(ko)(daeyang)(大洋(ko)),바다(ko)(bada)
+
+river:
+	large stream which drains a landmass: 강(ko)(gang)(江(ko)),수(ko)(su)(水(ko)),가람(ko)(garam)
+	Translations to be checked: (pleaseverify)내(ko)(nae),(pleaseverify)수(ko)(su)(水(ko)),(pleaseverify)강(ko)(gang)(江(ko)),(pleaseverify)가람(ko)(garam)
+
+mountain:
+	large mass of earth and rock: 산(ko)(san)(山(ko)),메(ko)(me)뫼(moe)
+	large amount: 태산(ko)(taesan)
+
+rain:
+	condensed water from a cloud: 비(ko)(bi)
+
+snow:
+	precipitation: 눈(ko)(nun)
+	colour: 설백(seolbaek)(雪白(ko))
+	TV noise: 스노우화면(seunouhwamyeon)(스노우畵面)
+	cocaine: 코카인(ko)(kokain)
+	collective precipitation: 강설(ko)(gangseol)(降雪)
+
+tree:
+	large woody plant: 나무(ko)(namu)
+	 graph tree with no cycles: 트리(teuri),나무(ko)(namu),수형도(suhyeongdo)
+
+sun:
+	the star around which the Earth revolves : 해(ko)(hae),태양(ko)(taeyang)(太陽(ko))
+
+moon:
+	largest natural satellite of planet Earth: 달(ko)(dal)
+	any substantially sized natural satellite of a planet: 위성(ko)(wiseong)
+	month: 달(ko)(dal),월(ko)(wol)
+
+world:
+	human collective existence: 세계(ko)(segye)(世界(ko)),누리(ko)(nuri)
+	the universe: 우주(ko)(uju)(宇宙(ko))
+	the Earth: 지구(ko)(jigu)(地球(ko)),세계(ko)(segye)(世界(ko))
+	inhabited planet: 세계(ko)(segye)(世界(ko))
+	individual or group perspective or social setting: 계(ko)(gye)(界(ko))
+
+earth:
+	
+
+forest:
+	dense collection of trees: 숲(ko)(sup),삼림(ko)(samnim)(森林(ko))
+
+sky:
+	atmosphere above a point: 하늘(ko)(haneul)
+	specific view, condition: 날씨(ko)(nalssi)
+	heaven: 하늘나라(ko)(haneullara),천국(ko)(cheon-guk)(天國(ko))
+
+plant:
+	organism capable of photosynthesis: 식물(ko)(singmul)(植物(ko))
+	a small or herbaceous organism, rather than a tree: 풀(ko)(pul),화초(hwacho)
+	organism of the kingdom : 식물(ko)(singmul)
+	ecology: multicellular eukaryote that includes chloroplasts in its cells: 식물(ko)(singmul)
+	object placed to incriminate: 함정(ko)(hamjeong)
+	person behaving as a member of the public during a covert operation: 프락치(peurakchi)
+	snooker shot: 플랜트(peullaenteu)
+	large piece of machinery: 시설(ko)(siseol),설비(ko)(seolbi)
+
+wind:
+	movement of air: 바람(ko)(baram)
+
+soil:
+	mixture of sand and organic material: 흙(ko)(heuk),토양(ko)(toyang)
+	Translations to be checked: (pleaseverify)흙(ko)(heuk)
+
+flower:
+	reproductive structure in angiosperms: 꽃(ko)(kkot)
+
+valley:
+	elongated depression between hills or mountains: 골짜기(ko)(goljjagi),계곡(ko)(gyegok)
+
+root:
+	part of a plant: 뿌리(ko)(ppuri)
+	of a tooth: 뿌리(ko)(ppuri)
+	primary source: 근원(ko)(geunwon)
+	arithmetic: number or expression which when raised to a power gives the specified number or expression: 거듭제곱근(ko)(geodeupjegopgeun)
+	analysis: zero of a function: 근(ko)(geun)
+	linguistic morphology: primary lexical unit of a word: 어근(ko)(eogeun)(語根(ko))
+	Translations to be checked: (pleaseverify)근원(ko)(geunwon)
+
+star:
+	luminous celestial body: 별(ko)(byeol),항성(ko)(hangseong)
+	celebrity: 스타(ko)(seuta)
+
+grass:
+	ground cover plant: 풀(ko)(pul),잡초(ko)(japcho)
+	lawn: 풀밭(pulbat),잔디밭(ko)(jandibat)
+
+leaf:
+	part of a plant: 잎(ko)(ip)
+	sheet of a book: 낱장(natjang)
+
+air:
+	mixture of gases making up the atmosphere of the Earth: 공기(ko)(gonggi)(空氣(ko))
+
+sand:
+	finely ground rock: 모래(ko)(morae)
+
+beach:
+	sandy shore: 바닷가(ko)(badatga),해변(ko)(haebyeon)(海邊(ko))
+
+wave:
+	moving disturbance, undulation: 물결(ko)(mulgyeol),파도(ko)(pado)(波濤(ko))
+
+fire:
+	oxidation reaction: 불(ko)(bul)
+	damaging occurrence of fire: 큰불(ko)(keunbul),화재(ko)(hwajae)
+	heater or stove used in place of real fire: 화덕(hwadeok)
+
+ice:
+	water in frozen form: 얼음(ko)(eoreum)
+
+island:
+	area of land completely surrounded by water: 섬(ko)(seom)
+
+hill:
+	elevated location: 언덕(ko)(eondeok)
+	heap of earth surrounding a plant: 북(ko)(buk)
+
+heat:
+	thermal energy: 열(ko)(yeol)
+	condition or quality of being hot: 열(ko)(yeol)
+	hot spell: 더위(ko)(deowi)
+	Translations to be checked: (pleaseverify)열(ko)(yeol)
+
+nature:
+	the natural world: 자연(ko)(jayeon)(自然(ko))
+	everything related to biological and geographical states: 자연(ko)(jayeon)(自然(ko))
+	Translations to be checked: (pleaseverify)나름(ko)(nareum),(pleaseverify)자연(ko)(jayeon)
+
+glass:
+	substance: 유리(ko)(yuri)
+	drinking vessel: 글라스(geullaseu),잔(ko)(jan),컵(ko)(keop)
+
+metal:
+	atomic element: 금속(ko)(geumsok)(金屬(ko))
+	certain category of rock music: 메탈(metal)
+
+plastic:
+	synthetic thermoplastic polymer: 플라스틱(ko)(peullaseutik)
+
+wood:
+	substance: 나무(ko)(namu),목재(ko)(mokjae)(木材(ko))
+	woodland: 숲(ko)(sup),수풀(ko)(supul)
+	firewood: 땔나무(ko)(ttaellamu)
+
+stone:
+	substance: 돌(ko)(dol)
+	small piece of stone: 돌(ko)(dol)
+	gem stone: 보석(ko)(boseok)(寶石(ko))
+	medical: hard, stone-like deposit: 결석(ko)(結石, gyeolseok)
+
+diamond:
+	uncountable: mineral: 다이아몬드(ko)(daiamondeu)
+	gemstone: 다이아몬드(ko)(daiamondeu)
+	card games: card of the diamonds suit: 다이아몬드(ko)(daiamondeu)
+
+clay:
+	mineral substance: 찰흙(ko)(chalheuk)
+
+dust:
+	fine, dry particles: 먼지(ko)(meonji),흙(ko)(heuk)
+
+gold:
+	element: 금(ko)(geum)(金(ko))
+	coin: 동전(ko)(dongjeon)
+	colour: 골드(goldeu),금색(ko)(geumsaek)
+	gold medal: 금메달(ko)(geummedal)
+	anything or anyone considered to be very valuable: 황금(ko)(hwanggeum)(figurative)
+
+copper:
+	chemical element Cu: 구리(ko)(guri),구리쇠(gurisoe),동(ko)(dong)(銅(ko)),적금(ko)(jeokgeum)(赤金)
+
+silver:
+	metal: 은(ko)(eun)(銀(ko)),백은(baegeun)(白銀)
+	coins: 은화(eunhwa)(銀貨)
+	color/colour: 은색(ko)(eunsaek)(銀色)
+
+material:
+	matter: 물질(ko)(muljil)(物質(ko)),재료(ko)(jaeryo)(材料(ko))
+	text: 자료(ko)(jaryo)(資料(ko))
+	qualified people: 인재(ko)(injae)(人材(ko))
+
+math:
+	
+
+meter:
+	measuring instrument: 계량기(gyeryanggi)
+
+kilogram:
+	unit of mass equal to 1000 grams: 킬로그램(ko)(killogeuraem),키로(ko)(kiro),킬로(ko)(killo)
+
+inch:
+	unit of length: 인치(ko)(inchi)
+
+pound:
+	unit of mass (16 ounces avoirdupois): 파운드(ko)(paundeu)
+	unit of currency: 파운드(ko)(paundeu)
+
+half:
+	one of two equal parts into which anything may be divided: 반(ko)(ban)
+	math: fraction: 반(ko)(ban)
+
+circle:
+	geometry: set of points that are equally distant from a center: 원(ko)(won)
+	geometry: set of all points in a plane within a radius: 원(ko)(won)
+	specific group of persons: 서클(ko)(seokeul)
+	bagginess of skin under eyes: 다크 서클(dakeu seokeul)
+
+square:
+	type of polygon: 정사각형(ko)(jeongsagakhyeong)
+	open space in a town: 광장(ko)(gwangjang)(廣場(ko))
+	Translations to be checked: (pleaseverify)정사각형(ko)(jeongsagakhyeong)((pleaseverify)正四角形(ko))
+
+temperature:
+	a measure of cold or heat: 온도(ko)(ondo)(溫度(ko))
+
+date:
+	fruit of the date palm: 대추(ko)(daechu)
+
+weight:
+	force due to gravity: 중량(ko)(jungnyang)(重量(ko)),무게(ko)(muge),체중(ko)(chejung)(body weight)
+	standardized measuring weight: 체중(ko)(chejung)
+
+edge:
+	
+
+corner:
+	space in the angle between converging lines or walls: 구석(ko)(guseok),모서리(ko)(moseori)
+	intersection of two streets: 모퉁이(ko)(motung-i),코너(ko)(koneo)
+
+map:
+	visual representation of an area: 지도(ko)(jido)(地圖(ko))
+
+dot:
+	small spot or mark: 점(ko)(jeom)(點(ko))
+	punctuation mark: 온점(onjeom)
+	decimal point: 소수점(ko)(sosujeom)(小數點(ko))
+	morse code symbol: 점(ko)(jeom)(點(ko))
+	dot in URL's or email addresses: 점(ko)(jeom)(點(ko))
+
+consonant:
+	sound: 자음(ko)(ja-eum)(子音(ko)),닿소리(ko)(dasori)
+	letter: 자음(ko)(ja-eum)(子音(ko))
+
+vowel:
+	sound: 모음(ko)(mo-eum)(母音(ko))
+	letter: 모음(ko)(mo-eum)(母音(ko))
+
+light:
+	electromagnetic waves: 빛(ko)(bit),광(ko)(gwang)
+	source of illumination: 불(ko)(bul)
+	spiritual illumination: 빛(ko)(bit)
+	flame or something used to create fire: 불(ko)(bul)
+
+sound:
+	sensation perceived by the ear: 소리(ko)(sori),음(ko)(eum)(音(ko))
+	Translations to be checked: (pleaseverify)소리(ko)(sori)
+
+yes:
+	
+
+no:
+	a negating expression: 아니(ko)(ani)
+
+piece:
+	part of a larger whole: 조각(ko)(jogak),부분(ko)(bubun),쪽(ko)(jjok)
+	chess: figure other than pawn; similar counter in other games: 기물(ko)(gimul),피스(piseu)
+	artistic creation: 작품(ko)(jakpum)
+
+pain:
+	ache or bodily suffering: 아픔(ko)(apeum),통증(ko)(tongjeung),고통(ko)(gotong)
+
+injury:
+	damage or violation: 상해(ko)(sanghae),부상(ko)(busang)(負傷(ko))
+
+hole:
+	hollow in some surface: 구멍(ko)(gumeong)
+
+image:
+	graphical representation: 상(ko)(sang),영상(ko)(yeongsang),이미지(ko)(imiji)
+	characteristic as perceived by others: 인상(ko)(insang),이미지(ko)(imiji)
+
+pattern:
+	motif or decoration: 무늬(ko)(munui)
+
+noun:
+	grammatical category (narrow sense): 명사(ko)(myeongsa)(名詞(ko))
+
+verb:
+	(grammar) a word that indicates an action, event, or a state: 동사(ko)(dongsa)(動詞(ko))
+
+top:
+	uppermost part: 꼭대기(ko)(kkokdaegi)
+	child’s spinning toy: 팽이(ko)(paeng-i)
+	baseball term: 초(ko)(cho)
+
+bottom:
+	lowest part: 밑(ko)(mit),바닥(ko)(badak),바탕(ko)(batang)
+	euphemistic: buttocks or anus: (for buttocks)궁둥이(ko)(gungdung-i),(for anus)똥구멍(ko)(ttonggumeong)
+
+side:
+	bounding straight edge of an object: 쪽(ko)(jjok)
+	flat surface of an object: 측면(cheungmyeon)
+	left or right half: 쪽(ko)(jjok)
+	portion of the human torso generally covered by the arms: 옆구리(ko)(yeopguri)
+
+front:
+	facing side: 앞(ko)(ap)
+	military: area or line of conflict: 전선(ko)(jeonseon)
+
+back:
+	the rear of body: 등(ko)(deung)
+	the reverse side: 뒤(ko)(dwi)
+	Translations to be checked: (pleaseverify)이면(imyeon),(pleaseverify)배후(ko)(baehu)
+
+outside:
+	
+
+inside:
+	interior or inner part: 안(ko)(an),내부(ko)(naebu)
+
+up:
+	direction opposed to the pull of gravity: 위(ko)(wi)
+
+down:
+	
+
+right:
+	legal or moral entitlement: 권리(ko)(gwolli)
+	right, not left, side: 오른쪽(ko)(oreunjjok)
+	right-wing politicians and parties: 우익(u-ik)
+
+north:
+	compass point: 북(ko)(buk)(北(ko)),북쪽(ko)(bukjjok)
+
+south:
+	compass point: 남(ko)(nam)(南(ko)),남쪽(ko)(namjjok)
+
+east:
+	compass point: 동(ko)(dong)(東(ko)),(nautical)새(ko)(sae),동쪽(ko)(dongjjok))
+
+west:
+	compass point: 서(ko)(seo)(西(ko)),(nautical)하늬(hanui),서쪽(ko)(seojjok)
+
+direction:
+	indication of the point toward which an object is moving: 방향(ko)(banghyang)(方向(ko))
+	work of the director (manager): 지휘(ko)(jihwi)
+	work of the director in cinema or theater: 감독(ko)(gamdok)
+
+summer:
+	hottest season: 여름(ko)(yeoreum)
+
+spring:
+	season between winter and summer in temperate climates: 봄(ko)(bom),춘계(chun-gye)
+	water springing from the ground: 샘(ko)(saem)
+	device made of flexible material: 용수철(ko)(yongsucheol)(龍鬚鐵)
+
+winter:
+	fourth season, marked by short days and lowest temperatures: 겨울(ko)(gyeoul)
+
+season:
+	quarter of a year: 계절(ko)(gyejeol)
+	part of year with something special: 시즌(ko)(sijeun)
+	a group of episodes: please add this translation if you can
+
+march:
+	formal, rhythmic way of walking: 행진(ko)(haengjin)
+
+may:
+	
+
+year:
+	time it takes for the Earth to complete one revolution around the Sun: 년(ko)(nyeon)(年(ko)),연(ko)(yeon)(年(ko)),해(ko)(hae)
+	a level or grade at school or college: 학년(ko)(hangnyeon)(學年(ko))
+
+month:
+	period into which a year is divided: 달(ko)(dal),월(ko)(wol)
+
+week:
+	period of seven days: 주(ko)(ju)(週(ko)),주일(ko)(ju-il)
+
+day:
+	period of 24 hours: 일주야(iljuya)(一晝夜),하루(ko)(haru),일(ko)(il)
+	period from midnight to the following midnight: 일(ko)(il)(日(ko)),날(ko)(nal),하루(ko)(haru)
+	part of a day period which one spends at one’s job, school, etc.: 주간(jugan)(晝間)
+	period between sunrise and sunset: 낮(ko)(nat)
+
+hour:
+	time period of sixty minutes: 시(ko)(si)(時(ko)),시간(ko)(sigan)(時間(ko))
+	unit to denote the hour, such as military usage in English: 시(ko)(si)(時(ko))
+
+minute:
+	unit of time: 분(ko)(bun)
+
+second:
+	
+
+morning:
+	part of the day between dawn and midday: 아침(ko)(achim)
+	the part of the day after midnight and before midday: 아침(ko)(achim),오전(ko)(ojeon)(午前(ko))
+
+afternoon:
+	part of the day between noon and evening: 오후(ko)(ohu)(午後(ko))
+
+evening:
+	time of day between the approximate time of midwinter dusk and midnight: 저녁(ko)(jeonyeok)
+
+night:
+	period between sunset and sunrise: 밤(ko)(bam)
+	nightfall: 황혼(ko)(hwanghon)
+
+time:
+	inevitable passing of events: 시간(ko)(sigan)(時間(ko))
+	quantity of availability in time: 시간(ko)(sigan)(時間(ko))
+	measurement of a quantity of time: 시간(ko)(sigan)(時間(ko))
+	extended period of time, defined or undefined: age, era, etc.: 시대(ko)(sidae)(時代(ko)),때(ko)(ttae)
+	division of the day: particular moment or hour: 시간(ko)(sigan)(時間(ko)),순간(ko)(sun-gan)(瞬間(ko)),시(ko)(si)(時(ko)),때(ko)(ttae)
+	time of day, as indicated by a clock, etc: 시간(ko)(sigan)(時間(ko)),시각(ko)(sigak)(時刻(ko)),때(ko)(ttae)
+	measurement under some system of the time of day or moment in time: 시각(ko)(sigak)(時刻(ko)),때(ko)(ttae)
+	numerical indication of a particular moment in time: 시각(ko)(sigak)(時刻(ko))
+	instance or occurrence: 회(ko)(hoe)(回(ko)),번(ko)(beon)(番(ko)),차(ko)(cha)(次(ko))
+	experience: 경험(ko)(gyeongheom)(經驗(ko))
+
+work:
+	to do a specific task: 일하다(ko)(ilhada)
+
+play:
+	act in a manner such that one has fun: 놀다(ko)(nolda)
+	act in a performance: 연기를하다(yeon-gireul hada)
+
+walk:
+	to move on the feet: 걷다(ko)(geotda),가다(ko)(gada),걸어가다(ko)(georeogada)
+	to travel a distance by walking: 걸어가다(ko)(georeogada)
+	to take for a walk: 거닐다(geonilda)
+	baseball: to allow to advance after four balls: 사구(ko)(sagu)
+	to full cloth: (pleaseverify)무두질하다(mudujilhada)
+
+drive:
+	operate (a wheeled motorized vehicle): 운전하다(ko)(unjeonhada),드라이브하다(deuraibeuhada)
+
+fly:
+	
+
+swim:
+	move through water: 수영하다(ko)(suyeonghada),헤엄치다(ko)(heeomchida)
+
+go:
+	to move through space (especially from one place to another): 가다(ko)(gada)
+	of a machine, to work: 작동하다(ko)(jakdonghada)
+	to disappear: 사라지다(ko)(sarajida)
+	to make (a specified sound): 내다(ko)(naeda)
+
+stop:
+	to cease moving: 그치다(ko)(geuchida),정지하다(jeongjihada),서다(ko)(seoda)
+	to not continue: 그치다(ko)(geuchida)
+	to cause to cease moving: 멈추다(ko)(meomchuda)
+
+follow:
+	to go or come after in physical space: 따르다(ko)(ttareuda)
+
+think:
+	communicate to oneself in one’s mind: 생각하다(ko)(saenggakhada)
+
+say:
+	to pronounce: 말하다(ko)(malhada),말씀하다(ko)(malsseumhada)(honorific)
+	to recite: 암송하다(ko)(amsonghada)
+	to have a common expression: 대(ko)(dae),답니다(damnida)
+	Translations to be checked: (pleaseverify)말하다(ko)(malhada)
+
+drink:
+	consume liquid through the mouth: 마시다(ko)(masida),(honorific)드시다(deusida)
+
+kill:
+	to put to death: 죽이다(ko)(jugida)
+
+die:
+	to stop living: 죽다(ko)(jukda),돌아가시다(doragasida)(honorific),숨지다(ko)(sumjida),사망하다(samanghada)
+
+smile:
+	to have a smile on one's face: 웃다(ko)(utda)
+
+buy:
+	to obtain something with money: 사다(ko)(sada),구입하다(ko)(gu-iphada)
+
+pay:
+	to give money in exchange for goods or services: 지불하다(ko)(jibulhada),내다(ko)(naeda),계산하다(ko)(gyesanhada)
+
+sell:
+	to agree to transfer goods or provide services: 팔다(ko)(palda),판매하다(ko)(panmaehada)
+
+shoot:
+	to fire a shot: 쏘다(ko)(ssoda)
+	to fire multiple shots: 쏘다(ko)(ssoda)
+	to hit with a shot: 쏘다(ko)(ssoda)
+
+learn:
+	to acquire knowledge or ability: 배우다(ko)(bae-uda)
+	Translations to be checked: (pleaseverify)배우다(ko)(bae-uda)
+
+jump:
+	propel oneself rapidly upward such that momentum causes the body to become airborne : 뛰다(ko)(ttwida),점프하다(jeompeuhada)
+	Translations to be checked: (pleaseverify)뛰다(ko)(ttwida),(pleaseverify)점프하다(jeompeuhada)
+
+smell:
+	sense with nose: 냄새를맡다(naemsaereul matda),맡다(ko)(matda)
+	to have a particular smell, whether good or bad; if descriptive, followed by "like" or "of": 냄새가나다(naemsaega nada)
+
+hear:
+	to perceive with the ear: 듣다(ko)(deutda)
+
+listen:
+	to pay attention to a sound: 듣다(ko)(deutda)
+	to expect or wait for a sound: 듣다(ko)(deutda)
+	to accept advice or obey instruction: 듣다(ko)(deutda),들어주다(ko)(deureojuda)
+	to hear (something): 들리다(ko)(deullida)
+
+touch:
+	make physical contact with: 닿다(ko)(data),만지다(ko)(manjida)
+	affect emotionally: 닿다(ko)(data),두드리다(ko)(dudeurida)
+
+see:
+	perceive with the eyes: 보다(ko)(boda),(humble)뵙다(ko)(boepda)
+	understand: 이해하다(ko)(ihaehada),알다(ko)(alda)
+
+watch:
+	to look at for a period of time: 관찰하다(ko)(gwanchalhada),보다(ko)(boda)
+	to observe: 관찰하다(ko)(gwanchalhada)
+
+kiss:
+	to touch with the lips: 입맞추다(immatchuda),키스하다(ko)(kiseuhada),뽀뽀하다(ko)(ppoppohada)
+
+burn:
+	to cause to be consumed by fire: 태우다(ko)(tae-uda)
+	to be consumed by fire: 불타다(bultada),타다(ko)(tada)
+	to overheat so as to make unusable: 태우다(ko)(tae-uda)
+	to injure with heat or chemicals: 데다(deda)
+	to feel hot due to embarrassment: 달아오르다(ko)(daraoreuda)
+	computing: to write data: 굽다(ko)(gupda)
+	to betray: 데다(deda)
+	Translations to be checked: (pleaseverify)타다(ko)(tada)(ta-da),Hanja:(pleaseverify)연소하다(yeonsohada)(yeonso-hada)
+
+melt:
+	intransitive: (of a solid) to become a liquid: 녹다(ko)(nokda)
+
+dig:
+	to move hard-packed earth out of the way: 파다(ko)(pada)
+	Translations to be checked: (pleaseverify)파다(ko)(pada)
+
+explode:
+	to explode (intransitive): 폭발적으로 증가하다(pokbaljeogeuro jeunggahada)
+
+sit:
+	of a person, be in a position in which the upper body is upright and the legs are supported: 앉다(ko)(anda)
+
+love:
+	have a strong affection for: 사랑하다(ko)(saranghada),애정을 품다(ko)(aejeong-eul pumda)
+	be strongly inclined towards doing: 좋아하다(ko)(joahada)
+	care about; will good for: 애정(ko)(aejeong)
+
+pass by:
+	
+
+cut:
+	to perform an incision: 끊다(ko)(kkeunta)
+
+fight:
+	(intransitive) to contend in physical conflict: 다투다(ko)(datuda),싸우다(ko)(ssauda)
+	(transitive) to contend in physical conflict against: 싸우다(ko)(ssauda)
+
+lie down:
+	assume a reclining position: 눕다(ko)(nupda)
+
+dance:
+	move rhythmically to music: 춤추다(ko)(chumchuda),추다(ko)(chuda)
+
+sleep:
+	to rest in state of reduced consciousness: 자다(ko)(jada),잠자다(ko)(jamjada),주무시다(ko)(jumusida)(honorific)
+
+wake:
+	to stop sleeping: 일어나다(ko)(ireonada)
+	Translations to be checked: (pleaseverify)깨다(ko)(kkaeda)
+
+sing:
+	to produce harmonious sounds with one’s voice: 노래하다(ko)(noraehada),부르다(ko)(bureuda),노래부르다(noraebureuda)
+
+count:
+	to enumerate or determine number: 세다(ko)(seda)
+
+marry:
+	to take a husband or wife: 결혼하다(ko)(gyeolhonhada)
+
+pray:
+	to petition a higher being: 빌다(ko)(bilda),기도하다(ko)(gidohada)
+	to talk to God: 빌다(ko)(bilda)
+
+win:
+	transitive: achieve victory in: 이기다(ko)(igida)
+	intransitive: achieve by winning: 이기다(ko)(igida)
+
+lose:
+	cause (something) to cease to be in one's possession or capability: 잃다(ko)(ilta)
+	(transitive) fail to win: 지다(ko)(jida),패배하다(ko)(paebaehada)
+	shed (weight): 여위다(ko)(yeowida)
+	fail to be the winner: 지다(ko)(jida)
+	Translations to be checked: 잃다(ko)(ilta),잊다(ko)(itda),줄다(ko)(julda)(3)
+
+mix:
+	stir two or more substances together: 석다(seokda),섞다(ko)(seokda)
+
+stir:
+	Translations to be checked: 휘젓다(hwijeotda)
+
+bend:
+	to cause to shape into a curve: 구부리다(ko)(guburida)
+	Translations to be checked: (pleaseverify)구부리다(ko)(guburida)
+
+wash:
+	to clean with water: 씻다(ko)(ssitda)
+
+cook:
+	to prepare (food) for eating: 요리하다(ko)(yorihada)
+
+open:
+	to make something accessible: 열다(ko)(yeolda)
+
+close:
+	obstruct (an opening): 닫다(ko)(datda)
+	move (a door): 닫다(ko)(datda)
+
+call:
+	to request, summon, or beckon: 부르다(ko)(bureuda)
+	to cry or shout: 소리치다(ko)(sorichida),외치다(ko)(oechida)
+	to contact by telephone: 전화하다(ko)(jeonhwahada)
+	to pay a social visit: 찾아가다(ko)(chajagada),방문하다(ko)(bangmunhada)(訪問하다(ko))
+	to name or refer to: 부르다(ko)(bureuda)
+
+turn:
+	to move around an axis through itself: 돌다(ko)(dolda)
+	to change the direction or orientation of, especially by rotation: 돌다(ko)(dolda),돌리다(ko)(dollida)
+	to change one's direction of travel: 구부러지다(ko)(gubureojida),돌다(ko)(dolda)
+
+teach:
+	to pass on knowledge: 가르치다(ko)(gareuchida)
+
+grow:
+	(: 자라다(ko)(jarada)
+	Translations to be checked: (pleaseverify)기르다(ko)(gireuda),(pleaseverify)자라다(ko)(jarada),(pleaseverify)성장하다(ko)(seongjanghada)((pleaseverify)成長하다(ko))
+
+feed:
+	to give food to eat: 먹이다(ko)(meogida)
+
+throw:
+	to cause an object to move rapidly through the air: 던지다(ko)(deonjida)
+	Translations to be checked: (pleaseverify)던지다(ko)(deonjida)
+
+clean:
+	(transitive) to remove dirt from a place or object: 청소하다(ko)(cheongsohada)
+	(transitive) to tidy up: 청소하다(ko)(cheongsohada),소제하다(ko)(sojehada)
+	Translations to be checked: (pleaseverify)씻다(ko)(ssitda)
+
+find:
+	encounter, locate, discover: 찾다(ko)(chatda)
+
+fall:
+	move to a lower position under the effect of gravity: 넘어지다(ko)(neomeojida),쓰러지다(ko)(sseureojida),떨어지다(ko)(tteoreojida),하락하다(ko)(harakhada),낙하하다(ko)(nakhahada)
+
+push:
+	to apply a force to something so that it moves away: 밀다(ko)(milda)
+
+pull:
+	transitive: apply force to (something) so it comes towards one: 끌다(ko)(kkeulda),뽑다(ko)(ppopda)
+
+carry:
+	to transport by lifting: 나르다(ko)(nareuda)
+
+break:
+	intransitive: to separate into (to end up in) two or more pieces: 부러지다(ko)(bureojida)
+	transitive: to separate into (to cause to end up in) two or more pieces: 깨트리다(ko)(kkaeteurida),부러뜨리다(ko)(bureotteurida),부수다(ko)(busuda)
+	intransitive, of a bone: to crack: 부러지다(ko)(bureojida)
+	transitive: to cause (a bone) to crack: 부러뜨리다(ko)(bureotteurida)
+	transitive: to do that which is forbidden by (something): 깨다(ko)(kkaeda)
+	gaming: to design or make a powerful, unbalancing but legal move: 잔꾀부리다(jankkoeburida)
+	intransitive: to stop functioning properly or altogether: 부서지다(ko)(buseojida)
+	transitive: to cause to stop functioning: 부수다(ko)(busuda)
+	to interrupt or cease one's work or occupation temporarily: 쉬다(ko)(swida)
+	to disclose or make known an item of news: 까발리다(ko)(kkaballida)
+	to win a game as receiver in tennis: 쉬다(ko)(swida)
+	billiards: to make the first shot: 쉬다(ko)(swida)
+	Translations to be checked: (pleaseverify)꺾다(ko)(kkeokda)
+
+wear:
+	to have on (clothes): 입다(ko)(ipda),신다(ko)(sinda)(on feet),쓰다(ko)(sseuda)(on the head),끼다(ko)(kkida)(glasses, gloves, rings)
+	Translations to be checked: 입다(ko)(ipda)
+
+hang:
+	to be or remain suspended: 걸다(ko)(geolda)
+	to cause to be suspended: (pleaseverify)걸다(ko)(geolda)
+
+shake:
+	transitive: to cause to move: 흔들리다(ko)(heundeullida)
+	intransitive: to move from side to side: 흔들다(ko)(heundeulda),떨다(ko)(tteolda)(tremble)
+	intransitive: to shake hands: 악수하다(ko)(aksuhada)
+	Translations to be checked: (pleaseverify)떨다(ko)(tteolda)
+
+sign:
+	to make (a document) official by writing one's signature: 서명하다(ko)(seomyeonghada),사인하다(ko)(sainhada)
+	to write one's signature on a document: 서명하다(ko)(seomyeonghada)
+
+beat:
+	to hit, to knock, to pound, to strike: 치다(ko)(chida)
+	to win against: 이기다(ko)(igida)
+	to mix food: 털다(ko)(teolda)
+
+lift:
+	
+
+long:
+	having much distance from one point to another: 길다(ko)(gilda)
+	having great duration: 오래되다(ko)(oraedoeda)
+	Translations to be checked:  (1)(pleaseverify)길다(ko)(gilda),(pleaseverify)멀다(ko)(meolda)
+
+short:
+	having a small distance between ends or edges: 짧다(ko)(jjalda),짧은(ko)(jjalbeun)(attributive)
+	of a person, of comparatively small height: 작다(ko)(jakda)
+	having little duration: 짧다(ko)(jjalda)
+	Translations to be checked: (pleaseverify)짧다(ko)(jjalda)
+
+tall:
+	of a person: 키가크다(kiga keuda)(predicative),키가큰(kiga keun)(attributive)
+	of a building: 높다(ko)(nopda)
+
+short:
+	having a small distance between ends or edges: 짧다(ko)(jjalda),짧은(ko)(jjalbeun)(attributive)
+	of a person, of comparatively small height: 작다(ko)(jakda)
+	having little duration: 짧다(ko)(jjalda)
+	Translations to be checked: (pleaseverify)짧다(ko)(jjalda)
+
+wide:
+	having a large physical extent from side to side: 넓다(ko)(neolda),넓은(ko)(neolbeun)
+
+narrow:
+	having small width: 좁은(ko)(jobeun),좁다(ko)(jopda)
+
+big:
+	of a great size : 크다(ko)(keuda),큰(ko)(keun)(determiner)
+	adult: 어른(ko)(eoreun),성인(ko)(seong-in)
+
+large:
+	of greater size : 큰(ko)(keun)
+
+small:
+	not large: 작다(ko)(jakda),작은(ko)(jageun)(determiner)
+	young: 어린(ko)(eorin)
+
+little:
+	small in size: 작은(ko)(jageun)
+
+slow:
+	not quick in motion: 느린(ko)(neurin),느리다(ko)(neurida)(predicative)
+
+fast:
+	moving or capable of moving with great speed: 빠르다(ko)(ppareuda)
+
+hot:
+	having a high temperature: (water, food)뜨겁다(ko)(tteugeopda),
+	of the weather: (weather)덥다(ko)(deopda)
+	spicy: 맵다(ko)(maepda)
+
+cold:
+	having a low temperature: 찬(ko)(chan),차다(ko)(chada),춥다(ko)(chupda)(for suffering)
+
+warm:
+	having a temperature slightly higher than usual: 따뜻하다(ko)(ttatteuthada)
+
+cool:
+	having a slightly low temperature: 쌀쌀하다(ko)(ssalssalhada),시원하다(ko)(siwonhada)
+	colloquial: being considered as "popular" by others: 멋있다(ko)(meositda),멋지다(ko)(meotjida),훌륭하다(ko)(hullyunghada)
+	colloquial: in fashion: 멋있다(ko)(meositda),쿨하다(ko)(kulhada)
+
+new:
+	recently made or created: 새롭다(ko)(saeropda),(prefix)새(ko)(sae);신(ko)(sin)(新(ko)),뉴(ko)(nyu)
+
+old:
+	of an object, concept, etc: having existed for a relatively long period of time: 낡다(ko)(nakda),오래되다(ko)(oraedoeda)
+	of a living being: having lived for relatively many years: 늙다(ko)(neukda),나이들다(naideulda),연로하다(yeollohada)
+	former: 오래되다(ko)(oraedoeda)
+	having existed or lived for the specified time: 먹었다(meogeotda)
+
+new:
+	recently made or created: 새롭다(ko)(saeropda),(prefix)새(ko)(sae);신(ko)(sin)(新(ko)),뉴(ko)(nyu)
+
+young:
+	in the early part of life or growth: 어리다(ko)(eorida),젊다(ko)(jeomda)
+	as if young: 어리다(ko)(eorida)
+	belonging in the early part of life: 이르다(ko)(ireuda)
+	having little experience: 어리다(ko)(eorida),어리석다(ko)(eoriseokda)
+
+good:
+	acting in the interest of good; ethical good intentions: 좋다(ko)(jota)
+	useful for a particular purpose: 좋은(ko)(joeun)
+	of food, edible; not stale or rotten: please add this translation if you can
+	of food, having a particularly pleasant taste: please add this translation if you can
+	healthful: please add this translation if you can
+	pleasant; enjoyable: please add this translation if you can
+	of people, competent or talented: please add this translation if you can
+	effective: please add this translation if you can
+	favourable: please add this translation if you can
+	beneficial; worthwhile: please add this translation if you can
+	Translations to be checked: (pleaseverify)좋은(ko)(joeun)
+
+bad:
+	unfavorable; negative: 나쁘다(ko)(nappeuda),나쁜(ko)(nappeun)(determiner)
+	Translations to be checked: (pleaseverify)나쁜(ko)(nappeun)
+
+wet:
+	of an object: covered with or impregnated with liquid: 젖은(jeojeun),(predicate)젖다(ko)(jeotda)
+
+dry:
+	free from liquid or moisture: 마른(ko)(mareun),건(ko)(geon)
+
+sick:
+	
+
+healthy:
+	enjoying health and vigor of body, mind, or spirit: well: 건강하다(ko)(geon-ganghada)
+	Translations to be checked: (pleaseverify)기운 있는(giun inneun),(pleaseverify)건강한(geon-ganghan)
+
+loud:
+	of a sound: 시끄럽다(ko)(sikkeureopda)
+	noisy: 시끄럽다(ko)(sikkeureopda)
+
+quiet:
+	with little sound: 조용하다(ko)(joyonghada)
+
+happy:
+	contented, joyous: 행복하다(ko)(haengbokhada),기뻐하다(ko)(gippeohada),기쁘다(ko)(gippeuda)
+	fortunate, lucky: 운좋은(unjoeun)
+	content (to do something); having no objection (to something): 만족하다(ko)(manjokhada)
+
+sad:
+	feeling sorrow: 슬프다(ko)(seulpeuda)
+	Translations to be checked: (pleaseverify)슬픈(ko)(seulpeun)
+
+beautiful:
+	possessing charm and attractive: 아름답다(ko)(areumdapda)
+
+deaf:
+	unable to hear: 귀머거리의(gwimeogeoriui)
+
+blind:
+	unable to see: 눈이 먼(nun-i meon)
+
+nice:
+	pleasant: 좋은(ko)(joeun)
+	attractive: 착하다(ko)(chakhada)
+
+mean:
+	intending to cause harm, successfully or otherwise: 나쁘다(ko)(nappeuda),악하다(akhada)(惡-),악의적이다(aguijeogida)(惡意的-)
+	low-minded; acting without consideration of others: 나쁘다(ko)(nappeuda),비열하다(biyeolhada)(卑劣-),이기적이다(igijeogida)(利己的-),치사하다(chisahada)(恥事-)
+	powerful; fierce; harsh; damaging: 가혹하다(gahokhada)(苛酷-)
+	low in quality; inferior: 나쁘다(ko)(nappeuda),열등하다(yeoldeunghada)(劣等-)
+
+poor:
+	with few or no possessions or money: 가난하다(ko)(gananhada)
+
+thick:
+	relatively great in extent from one surface to another: 두껍다(ko)(dukkeopda)
+	having a viscous consistency: 짙다(ko)(jitda),농후하다(ko)(nonghuhada)
+
+thin:
+	having little thickness or extent from one surface to its opposite: 가늘다(ko)(ganeulda),얇다(ko)(yalda)
+	having little body fat or flesh; slim; slender; lean; gaunt: 마른(mareun),야위다(ko)(yawida)
+	Translations to be checked‌: "slim, narrow in size": (pleaseverify)얇은(ko)(yalbeun),(predicate)(pleaseverify)얇다(ko)(yalda)
+
+expensive:
+	having a high price or cost: 비싸다(ko)(bissada)(predicative),비싼(ko)(bissan)(attributive)
+
+cheap:
+	low and/or reduced in price: 싸다(ko)(ssada)(predicative),싼(ko)(ssan)(attributive)
+
+flat:
+	having no variations in altitude: 판판하다(ko)(panpan-hada),평평하다(ko)(pyeongpyeong-hada)(平平(ko)+하다(ko)(hada))
+
+curved:
+	
+
+male:
+	belonging to the sex which typically produces sperm, or the gender typically associated with it: 남성(ko)(namseong),웅(ung)(of animals)
+
+female:
+	belonging to the sex that typically produces eggs, or the gender typically associated with it: 여성(ko)(yeoseong),녀성(ko)(nyeoseong)(North Korea)
+	having an internal socket: 암형(amhyeong)
+
+tight:
+	
+
+loose:
+	not fixed tightly: 헐렁하다(ko)(heolleonghada)
+	Translations to be checked: (pleaseverify)헐거운(heolgeoun)
+
+high:
+	elevated; tall: 높다(ko)(nopda)
+
+low:
+	in a position comparatively close to the ground: 낮다(ko)(natda)
+
+soft:
+	giving way under pressure: 부드럽다(ko)(budeureopda)
+	of a cloth: 부드럽다(ko)(budeureopda)
+	gentle: 부드럽다(ko)(budeureopda),유순하다(ko)(yusunhada)
+
+hard:
+	resistant to pressure: 딱딱하다(ko)(ttakttakhada),단단하다(ko)(dandanhada)
+	requiring a lot of effort to do or understand: 어렵다(ko)(eoryeopda)
+
+deep:
+	having its bottom far down: 깊은(ko)(gipeun)
+	Translations to be checked: (pleaseverify)깊다(ko)(gipda),(pleaseverify)짙다(ko)(jitda)
+
+shallow:
+	having little depth and significantly less deep than wide: 얕다(ko)(yatda)
+
+clean:
+	not dirty: 깨끗하다(ko)(kkaekkeuthada),맑다(ko)(makda)
+
+dirty:
+	covered with or containing dirt: 더럽다(ko)(deoreopda)
+
+strong:
+	capable of producing great physical force: 강하다(ko)(ganghada),세다(ko)(seda)
+	capable of withstanding great physical force: 굳세다(gutseda)
+	determined, unyielding: 굳세다(gutseda)
+	highly stimulating to the senses: 세다(ko)(seda)
+	having an offensive or intense odor or flavor: 짙다(ko)(jitda)
+	having a high concentration of an essential or active ingredient: 짙다(ko)(jitda)
+	military: not easily subdued or taken: 굳세다(gutseda)
+
+weak:
+	lacking in force or ability: 약하다(ko)(yakhada)
+	Translations to be checked: (pleaseverify)약한(yakhan)
+
+dead:
+	no longer alive: 죽었다(ko)(jugeotda),죽은(ko)(jugeun)
+
+alive:
+	having life: 살아있는(ko)(sarainneun)
+
+heavy:
+	having great weight: 무겁다(ko)(mugeopda)
+
+light:
+	having light: 밝다(ko)(bakda)
+	pale in colour: 창백하다(changbaekhada)(蒼白-),옅다(ko)(yeotda),밝다(ko)(bakda)
+
+dark:
+	having an absolute or relative lack of light: 어둡다(ko)(eodupda)
+	hidden, secret: 어둡다(ko)(eodupda)
+	without moral or spiritual light: 어둡다(ko)(eodupda)
+	not bright or light, deeper in hue: 어둡다(ko)(eodupda)
+
+light:
+	having light: 밝다(ko)(bakda)
+	pale in colour: 창백하다(changbaekhada)(蒼白-),옅다(ko)(yeotda),밝다(ko)(bakda)
+
+nuclear:
+	pertaining to the nucleus of a cell: 핵(ko)(haek)
+	involving nuclear energy: 핵(ko)(haek)
+	of a weapon: deriving its force from nuclear energy: 핵(ko)(haek)
+
+famous:
+	well known: 유명한(yumyeonghan)
+
+i:
+	name of the letter I, i: 아이(ko)(ai)
+
+you:
+	object pronoun: the group being addressed: (see subject pronouns)
+	object pronoun: the person being addressed: (see subject pronouns)
+	subject pronoun: the group being addressed: (generic,discourteous if used for a superior)너희(ko)(neohui),(honorific)여러분(ko)(yeoreobun),(slightly rude)너희(ko)(neohui),당신들(dangsindeul),(highly insulting)이놈들(inomdeul),(very familiar)니네(nine),니들(nideul)(insulting if used wrongly),(intimate,in business, used toward subordinates)자네들(janedeul)
+	subject pronoun: the person being addressed: 당신(ko)(dangsin)(當身(ko)),너(ko)(neo),네(ko)(ne),자네(ko)(jane)
+
+he:
+	personal pronoun "he": 그(ko)(geu),그이(ko)(geu-i),이분(ko)(ibun)(he or she, polite)
+
+she:
+	person: 그녀(ko)(geunyeo),그(ko)(geu)(both male and female),이분(ko)(ibun)(he or she, polite)
+
+it:
+	subject — inanimate thing: 이것(ko)(igeot),그것(ko)(geugeot),저것(ko)(jeogeot)
+	object: 그것(ko)(geugeot)
+
+we:
+	the speakers, or the speaker(s) and other person(s) not being addressed (exclusive we: he or she or they and I): 우리(ko)(uri),저희(ko)(jeohui)(humble)
+
+they:
+	third-person plural pronoun: 그들(geudeul),그녀들(geunyeodeul)(females only)
+	third-person singular, of unknown, irrelevant: 그(ko)(geu)
+

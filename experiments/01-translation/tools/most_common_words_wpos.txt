@@ -1,0 +1,667 @@
+dog, noun
+cat, noun
+bird, noun
+cow, noun
+pig, noun
+mouse, noun
+horse, noun
+wing, noun
+animal, noun
+
+train, noun
+plane, noun
+car, noun
+truck, noun
+bicycle, noun
+bus, noun
+boat, noun
+ship, noun
+tire, noun
+gasoline, noun
+engine, noun
+ticket, noun
+transportation, noun
+
+city, noun
+house, noun
+apartment, noun
+street, noun
+road, noun
+airport, noun
+train station, noun
+bridge, noun
+hotel, noun
+restaurant, noun
+farm, noun
+court, noun
+school, noun
+office, noun
+room, noun
+town, noun
+university, noun
+club, noun
+bar, noun
+park, noun
+camp, noun
+store, noun
+theater, noun
+library, noun
+hospital, noun
+church, noun
+market, noun
+country, noun
+building, noun
+ground, noun
+space, noun
+bank, noun
+
+hat, noun
+dress, noun
+suit, noun
+skirt, noun
+shirt, noun
+T-shirt, noun
+pants, noun
+shoes, noun
+pocket, noun
+coat, noun
+stain, noun
+clothing, noun
+
+red, adjective
+green, adjective
+blue, adjective
+yellow, adjective
+brown, adjective
+pink, adjective
+orange, adjective
+black, adjective
+white, adjective
+gray, adjective
+color, adjective
+
+son, noun
+daughter, noun
+mother, noun
+father, noun
+parent, noun
+baby, noun
+man, noun
+woman, noun
+brother, noun
+sister, noun
+framily, noun
+grandfather, noun
+grandmother, noun
+husband, noun
+wife, noun
+king, noun
+queen, noun
+president, noun
+neighbor, noun
+boy, noun
+girl, noun
+child, noun
+adult, noun
+human, noun
+friend, noun
+victim, noun
+player, noun
+fan, noun
+crowd, noun
+person, noun
+
+teacher, noun
+student, noun
+lawyer, noun
+doctor, noun
+patient, noun
+waiter, noun
+secretary, noun
+priest, noun
+police, noun
+army, noun
+soldier, noun
+artist, noun
+author, noun
+manager, noun
+reporter, noun
+actor, noun
+job, noun
+
+religion, noun
+heaven, noun
+hell, noun
+death, noun
+medicine, noun
+money, noun
+dollar, noun
+bill, noun
+marriage, noun
+wedding, noun
+team, noun
+relationship, noun
+race, noun
+sex, noun
+gender, noun
+murder, noun
+prison, noun
+technology, noun
+energy, noun
+war, noun
+peace, noun
+attack, noun
+election, noun
+magazine, noun
+newspaper, noun
+poison, noun
+gun, noun
+sport, noun
+race, noun
+exercise, noun
+ball, noun
+game, noun
+price, noun
+contract, noun
+drug, noun
+sign, noun
+science, noun
+God, noun
+
+Art, noun
+band, noun
+song, noun
+instrument, noun
+music, noun
+movie, noun
+art, noun
+
+Beverages, noun
+coffee, noun
+tea, noun
+wine, noun
+beer, noun
+juice, noun
+water, noun
+milk, noun
+beverage, noun
+
+Food, noun
+egg, noun
+cheese, noun
+bread, noun
+soup, noun
+cake, noun
+chicken, noun
+pork, noun
+beef, noun
+apple, noun
+banana, noun
+orange, noun
+lemon, noun
+corn, noun
+rice, noun
+oil, noun
+seed, noun
+knife, noun
+spoon, noun
+fork, noun
+plate, noun
+cup, noun
+breakfast, noun
+lunch, noun
+dinner, noun
+sugar, noun
+salt, noun
+bottle, noun
+food, noun
+
+Home, noun
+table, noun
+chair, noun
+bed, noun
+dream, noun
+window, noun
+door, noun
+bedroom, noun
+kitchen, noun
+bathroom, noun
+pencil, noun
+pen, noun
+photograph, noun
+soap, noun
+book, noun
+page, noun
+key, noun
+paint, noun
+letter, noun
+note, noun
+wall, noun
+paper, noun
+floor, noun
+ceiling, noun
+roof, noun
+pool, noun
+lock, noun
+telephone, noun
+garden, noun
+yard, noun
+needle, noun
+bag, noun
+box, noun
+gift, noun
+card, noun
+ring, noun
+tool, noun
+
+Electronics, noun
+clock, noun
+lamp, noun
+fan, noun
+cell, noun
+phone, noun
+network, noun
+computer, noun
+program, noun
+laptop, noun
+screen, noun
+camera, noun
+television, noun
+radio, noun
+
+Body, noun
+head, noun
+neck, noun
+face, noun
+beard, noun
+hair, noun
+eye, noun
+mouth, noun
+lip, noun
+nose, noun
+tooth, noun
+ear, noun
+tear, noun
+tongue, noun
+back, noun
+toe, noun
+finger, noun
+foot, noun
+hand, noun
+leg, noun
+arm, noun
+shoulder, noun
+heart, noun
+blood, noun
+brain, noun
+knee, noun
+sweat, noun
+disease, noun
+bone, noun
+voice, noun
+skin, noun
+body, noun
+
+Nature, noun
+sea, noun
+ocean, noun
+river, noun
+mountain, noun
+rain, noun
+snow, noun
+tree, noun
+sun, noun
+moon, noun
+world, noun
+Earth, noun
+forest, noun
+sky, noun
+plant, noun
+wind, noun
+soil, noun
+flower, noun
+valley, noun
+root, noun
+lake, noun
+star, noun
+grass, noun
+leaf, noun
+air, noun
+sand, noun
+beach, noun
+wave, noun
+fire, noun
+ice, noun
+island, noun
+hill, noun
+heat, noun
+nature, noun
+
+Materials, noun
+glass, noun
+metal, noun
+plastic, noun
+wood, noun
+stone, noun
+diamond, noun
+clay, noun
+dust, noun
+gold, noun
+copper, noun
+silver, noun
+material, noun
+
+Math, noun
+Measurements, noun
+meter, noun
+centimeter, noun
+kilogram, noun
+inch, noun
+foot, noun
+pound, noun
+half, noun
+circle, noun
+square, noun
+temperature, noun
+date, noun
+weight, noun
+edge, noun
+corner, noun
+
+map, noun
+dot, noun
+consonant, noun
+vowel, noun
+light, noun
+sound, noun
+yes, noun
+no, noun
+piece, noun
+pain, noun
+injury, noun
+hole, noun
+image, noun
+pattern, noun
+noun, noun
+
+verb, noun
+adjective
+
+top, noun
+bottom, noun
+side, noun
+front, noun
+back, noun
+outside, noun
+inside, noun
+up, noun
+down, noun
+left, noun
+right, noun
+straight, noun
+north, noun
+south, noun
+east, noun
+west, noun
+direction, noun
+
+Summer, noun
+Spring, noun
+Winter, noun
+Fall, noun
+season, noun
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+30
+31
+32
+40
+41
+42
+50
+51
+52
+60
+61
+62
+70
+71
+72
+80
+81
+82
+90
+91
+92
+100
+101
+102
+110
+111
+1000
+1001
+10000
+100000
+million
+billion
+1st
+2nd
+3rd
+4th
+5th
+number
+
+January, noun
+February, noun
+March, noun
+April, noun
+May, noun
+June, noun
+July, noun
+August, noun
+September, noun
+October, noun
+November, noun
+December, noun
+
+Monday, noun
+Tuesday, noun
+Wednesday, noun
+Thursday, noun
+Friday, noun
+Saturday, noun
+Sunday, noun
+
+year, noun
+month, noun
+week, noun
+day, noun
+hour, noun
+minute, noun
+second, noun
+morning, noun
+afternoon, noun
+evening, noun
+night, noun
+time, noun
+
+work, verb
+play, verb
+walk, verb
+run, verb
+drive, verb
+fly, verb
+swim, verb
+go, verb
+stop, verb
+follow, verb
+think, verb
+speak, verb
+say, verb
+eat, verb
+drink, verb
+kill, verb
+die, verb
+smile, verb
+laugh, verb
+cry, verb
+buy, verb
+pay, verb
+sell, verb
+shoot, verb
+learn, verb
+jump, verb
+smell, verb
+hear, verb
+listen, verb
+taste, verb
+touch, verb
+see, verb
+watch, verb
+kiss, verb
+burn, verb
+melt, verb
+dig, verb
+explode, verb
+sit, verb
+stand, verb
+love, verb
+pass by, verb
+cut, verb
+fight, verb
+lie down, verb
+dance, verb
+sleep, verb
+wake, verb
+sing, verb
+count, verb
+marry, verb
+pray, verb
+win, verb
+lose, verb
+mix, verb
+stir, verb
+bend, verb
+wash, verb
+cook, verb
+open, verb
+close, verb
+write, verb
+call, verb
+turn, verb
+build, verb
+teach, verb
+grow, verb
+draw, verb
+feed, verb
+catch, verb
+throw, verb
+clean, verb
+find, verb
+fall, verb
+push, verb
+pull, verb
+carry, verb
+break, verb
+wear, verb
+hang, verb
+shake, verb
+sign, verb
+beat, verb
+lift, verb
+
+long, adjective
+short, adjective
+tall, adjective
+short, adjective
+wide, adjective
+narrow, adjective
+big, adjective
+large, adjective
+small, adjective
+little, adjective
+slow, adjective
+fast, adjective
+hot, adjective
+cold, adjective
+warm, adjective
+cool, adjective
+new, adjective
+old, adjective
+new, adjective
+young, adjective
+good, adjective
+bad, adjective
+wet, adjective
+dry, adjective
+sick, adjective
+healthy, adjective
+loud, adjective
+quiet, adjective
+happy, adjective
+sad, adjective
+beautiful, adjective
+ugly, adjective
+deaf, adjective
+blind, adjective
+nice, adjective
+mean, adjective
+rich, adjective
+poor, adjective
+thick, adjective
+thin, adjective
+expensive, adjective
+cheap, adjective
+flat, adjective
+curved, adjective
+male, adjective
+female, adjective
+tight, adjective
+loose, adjective
+high, adjective
+low, adjective
+soft, adjective
+hard, adjective
+deep, adjective
+shallow, adjective
+clean, adjective
+dirty, adjective
+strong, adjective
+weak, adjective
+dead, adjective
+alive, adjective
+heavy, adjective
+light, adjective
+dark, adjective
+light, adjective
+nuclear, adjective
+famous, adjective
+ 
+I, noun
+you, noun
+he, noun
+she, noun
+it, noun
+we, noun
+they, noun

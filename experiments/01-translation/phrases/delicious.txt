@@ -1,0 +1,8 @@
+The food is delicious. = 음식이 맛있다.
+The food was delicious. = 음식은 맛 있었다.
+The food will be delicious. = 음식이 맛있을 것입니다.
+Because the food is delicious I ate a lot. = 음식이 맛있어서 많이 먹었어요.
+If the food is delicious I will eat a lot. = 음식이 맛 있으면 많이 먹겠습니다.
+When the food is delicious I eat a lot. = 음식이 맛있을 때 많이 먹습니다.
+After I ate the food, I slept. = 음식을 먹고 잤습니다.
+Before I ate the food, I cooked. = 음식을 먹기 전에 요리를했습니다. 

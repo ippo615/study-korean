@@ -1,0 +1,45 @@
+# https://www.sayjack.com/korean/korean-hangul/type-by-romanization/
+# http://gimite.net/roman2hangul/
+# THIS: https://koreanverb.app/?search=%EB%A8%B9%EB%8B%A4
+
+if __name__ == '__main__':
+    person = '사람'
+    print(person[0])  # unicodedata.name(c) -> HANGUL SYLLABLE SA
+    print(person[1])  # unicodedata.name(c) -> HANGUL SYLLABLE RAM
+
+    # Aparently I get different behavior:
+    # https://stackoverflow.com/questions/46769520/python-encodes-korean-characters-in-an-unexpected-way-with-euc-kr-encoding-co
+    # because Windows ONLY supports pre-formatted syllable blocks
+    # https://en.wikipedia.org/wiki/Korean_language_and_computers
+    print(person.encode('euc_kr').decode('euc_kr'))
+    print(person.encode('cp949').decode('cp949'))
+
+    i_am_a_person = '저는 사람입니다.'
+    for syllable in i_am_a_person:
+        print(unicodedata.name(syllable))
+
+    print(i_am_a_person.encode('euc_kr'))
+
+    print(Syllable.from_syllable('는'))
+    print(Syllable.from_jamos('ㄴ', 'ㅡ', 'ㄴ'))
+
+    print(Syllable.from_syllable('다'))
+    print(Syllable.from_jamos('ㄷ', 'ㅏ'))
+
+    # Does not find it because regexes operate on unicode strings
+    # 'ㅁ' is a completely different unicode entity than '람'
+    # import re
+    # m = re.compile('ㅁ')
+    # print(m.search(person))
+
+    # Interesting reads:
+    # https://github.com/danrasband/krtpy/blob/master/krt.py
+    # https://github.com/what-studio/tossi
+    # https://subl.ee/
+    # https://pythonhosted.org/korean/
+    # https://github.com/twitter/twitter-korean-text
+    # https://konlpy.org/en/latest/
+
+    # Text to speech
+    # https://stackoverflow.com/questions/1614059/how-to-make-python-speak
+    # https://stackoverflow.com/questions/56173936/using-dispatch-from-win32com-client-sapi-spvoice

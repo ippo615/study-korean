@@ -1,0 +1,10 @@
+I live in New York City. = 저는 뉴욕에 살고 있습니다.
+I live in New York City = 나는 뉴욕시에 산다
+I lived in New York City. = 저는 뉴욕시에 살았습니다.
+I want to live in New York City. = 저는 뉴욕시에 살고 싶습니다.
+Because I live in New York City... = 저는 뉴욕에 살고 있기 때문에 ...
+When I live in New York City... = 내가 뉴욕에 살 때 ...
+If I live in New York City... = 내가 뉴욕에 산다면 ...
+I can live in New York City. = 저는 뉴욕시에 살 수 있습니다.
+I cannot live in New York City. = 저는 뉴욕시에 살 수 없습니다.
+Do not live in New York City. = 뉴욕시에 살지 마십시오. 
